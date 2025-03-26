@@ -1,0 +1,5282 @@
+[
+  {
+    "_id": 121,
+    "Name": "Golden Games",
+    "Foundingdate": "1961-01-05T21:11:33.798Z",
+    "Country": "Italy"
+  },
+  {
+    "_id": 122,
+    "Name": "Golden Soft",
+    "Foundingdate": "1961-07-11T15:17:26.688Z",
+    "Country": "Germany"
+  },
+  {
+    "_id": 123,
+    "Name": "Omega Tech",
+    "Foundingdate": "1994-02-01T12:53:50.837Z",
+    "Country": "Germany"
+  },
+  {
+    "_id": 124,
+    "Name": "Beta Tech",
+    "Foundingdate": "2007-12-03T14:33:43.278Z",
+    "Country": "Canada"
+  },
+  {
+    "_id": 125,
+    "Name": "Red Entertainment",
+    "Foundingdate": "2006-12-06T16:17:55.471Z",
+    "Country": "Spain"
+  },
+  {
+    "_id": 126,
+    "Name": "Modern Arts",
+    "Foundingdate": "2010-10-08T14:49:17.947Z",
+    "Country": "Sweden"
+  },
+  {
+    "_id": 127,
+    "Name": "Green Interactive",
+    "Foundingdate": "1971-08-19T13:16:21.478Z",
+    "Country": "Italy"
+  },
+  {
+    "_id": 128,
+    "Name": "Next Arts",
+    "Foundingdate": "1989-04-30T19:56:16.705Z",
+    "Country": "Brazil"
+  },
+  {
+    "_id": 129,
+    "Name": "Green Developments",
+    "Foundingdate": "1957-08-30T00:29:18.484Z",
+    "Country": "South Korea"
+  },
+  {
+    "_id": 130,
+    "Name": "Golden Pixel",
+    "Foundingdate": "1995-11-20T21:25:53.216Z",
+    "Country": "Poland"
+  },
+  {
+    "_id": 131,
+    "Name": "Legendary Arts",
+    "Foundingdate": "1966-09-03T03:03:03.659Z",
+    "Country": "Japan"
+  },
+  {
+    "_id": 132,
+    "Name": "Green Developments",
+    "Foundingdate": "1985-11-17T10:57:29.720Z",
+    "Country": "USA"
+  },
+  {
+    "_id": 133,
+    "Name": "Golden Creative",
+    "Foundingdate": "2015-01-08T19:56:16.165Z",
+    "Country": "Japan"
+  },
+  {
+    "_id": 134,
+    "Name": "Cyber Tech",
+    "Foundingdate": "2006-02-25T22:00:21.568Z",
+    "Country": "Poland"
+  },
+  {
+    "_id": 135,
+    "Name": "Alpha Arts",
+    "Foundingdate": "1969-05-15T21:55:11.886Z",
+    "Country": "Japan"
+  },
+  {
+    "_id": 136,
+    "Name": "Green Game",
+    "Foundingdate": "1973-10-10T20:17:25.672Z",
+    "Country": "UK"
+  },
+  {
+    "_id": 137,
+    "Name": "Epic Tech",
+    "Foundingdate": "2018-03-21T08:07:21.254Z",
+    "Country": "China"
+  },
+  {
+    "_id": 138,
+    "Name": "Green Productions",
+    "Foundingdate": "1954-02-13T23:52:27.283Z",
+    "Country": "France"
+  },
+  {
+    "_id": 139,
+    "Name": "Modern Arts",
+    "Foundingdate": "1950-07-27T11:36:20.757Z",
+    "Country": "Sweden"
+  },
+  {
+    "_id": 140,
+    "Name": "Legendary Productions",
+    "Foundingdate": "1975-08-23T11:28:43.341Z",
+    "Country": "Italy"
+  },
+  {
+    "_id": 141,
+    "Name": "Golden Digital",
+    "Foundingdate": "2003-08-06T17:26:13.532Z",
+    "Country": "Germany"
+  },
+  {
+    "_id": 142,
+    "Name": "Silver Arts",
+    "Foundingdate": "1953-02-25T21:50:07.178Z",
+    "Country": "Brazil"
+  },
+  {
+    "_id": 143,
+    "Name": "Modern Arts",
+    "Foundingdate": "1977-03-16T22:49:22.183Z",
+    "Country": "Australia"
+  },
+  {
+    "_id": 144,
+    "Name": "Red Soft",
+    "Foundingdate": "1984-11-13T17:38:08.343Z",
+    "Country": "Italy"
+  },
+  {
+    "_id": 145,
+    "Name": "Blue Arts",
+    "Foundingdate": "1965-08-31T02:21:19.014Z",
+    "Country": "China"
+  },
+  {
+    "_id": 146,
+    "Name": "Fantasy Works",
+    "Foundingdate": "1952-06-18T02:13:07.889Z",
+    "Country": "Netherlands"
+  },
+  {
+    "_id": 147,
+    "Name": "Omega Digital",
+    "Foundingdate": "1995-12-15T17:42:28.571Z",
+    "Country": "Brazil"
+  },
+  {
+    "_id": 148,
+    "Name": "Action Entertainment",
+    "Foundingdate": "1955-06-14T01:45:50.602Z",
+    "Country": "Japan"
+  },
+  {
+    "_id": 149,
+    "Name": "Action Games",
+    "Foundingdate": "2016-06-03T23:25:09.462Z",
+    "Country": "UK"
+  },
+  {
+    "_id": 150,
+    "Name": "Adventure Soft",
+    "Foundingdate": "2016-04-30T15:18:42.790Z",
+    "Country": "UK"
+  },
+  {
+    "_id": 151,
+    "Name": "Future Productions",
+    "Foundingdate": "1969-12-14T07:38:56.148Z",
+    "Country": "Spain"
+  },
+  {
+    "_id": 152,
+    "Name": "Omega Interactive",
+    "Foundingdate": "1971-11-24T14:15:35.842Z",
+    "Country": "Spain"
+  },
+  {
+    "_id": 153,
+    "Name": "Ancient Network",
+    "Foundingdate": "1979-02-06T11:03:50.929Z",
+    "Country": "Germany"
+  },
+  {
+    "_id": 154,
+    "Name": "Green Tech",
+    "Foundingdate": "1986-05-09T12:45:59.983Z",
+    "Country": "Sweden"
+  },
+  {
+    "_id": 155,
+    "Name": "Retro Network",
+    "Foundingdate": "2020-10-17T21:11:09.587Z",
+    "Country": "UK"
+  },
+  {
+    "_id": 156,
+    "Name": "Cyber Entertainment",
+    "Foundingdate": "1998-04-25T19:47:28.575Z",
+    "Country": "Spain"
+  },
+  {
+    "_id": 157,
+    "Name": "Adventure Entertainment",
+    "Foundingdate": "1964-01-30T06:53:13.463Z",
+    "Country": "Australia"
+  },
+  {
+    "_id": 158,
+    "Name": "Ancient Creative",
+    "Foundingdate": "1988-12-30T19:57:12.623Z",
+    "Country": "Spain"
+  },
+  {
+    "_id": 159,
+    "Name": "Adventure Game",
+    "Foundingdate": "1981-06-28T12:03:50.814Z",
+    "Country": "Spain"
+  },
+  {
+    "_id": 160,
+    "Name": "Action Works",
+    "Foundingdate": "1959-11-26T11:41:29.938Z",
+    "Country": "USA"
+  },
+  {
+    "_id": 161,
+    "Name": "Ancient Works",
+    "Foundingdate": "2014-07-13T07:26:04.845Z",
+    "Country": "Canada"
+  },
+  {
+    "_id": 162,
+    "Name": "Beta Game",
+    "Foundingdate": "1993-08-10T09:27:45.901Z",
+    "Country": "China"
+  },
+  {
+    "_id": 163,
+    "Name": "Alpha Digital",
+    "Foundingdate": "1983-07-17T01:04:47.841Z",
+    "Country": "Spain"
+  },
+  {
+    "_id": 164,
+    "Name": "Adventure Tech",
+    "Foundingdate": "1993-08-22T11:09:39.197Z",
+    "Country": "Italy"
+  },
+  {
+    "_id": 165,
+    "Name": "Blue Games",
+    "Foundingdate": "2003-03-03T09:10:53.743Z",
+    "Country": "USA"
+  },
+  {
+    "_id": 166,
+    "Name": "Neon Game",
+    "Foundingdate": "1950-12-09T11:43:27.607Z",
+    "Country": "Poland"
+  },
+  {
+    "_id": 167,
+    "Name": "Beta Productions",
+    "Foundingdate": "1985-10-07T18:34:06.866Z",
+    "Country": "USA"
+  },
+  {
+    "_id": 168,
+    "Name": "Green Soft",
+    "Foundingdate": "1995-07-16T22:59:44.731Z",
+    "Country": "Japan"
+  },
+  {
+    "_id": 169,
+    "Name": "Ancient Games",
+    "Foundingdate": "1984-06-03T21:32:29.969Z",
+    "Country": "Italy"
+  },
+  {
+    "_id": 170,
+    "Name": "Epic Games",
+    "Foundingdate": "2005-01-10T02:29:01.195Z",
+    "Country": "UK"
+  },
+  {
+    "_id": 171,
+    "Name": "Modern Pixel",
+    "Foundingdate": "1977-10-01T13:09:48.904Z",
+    "Country": "Poland"
+  },
+  {
+    "_id": 172,
+    "Name": "Action Entertainment",
+    "Foundingdate": "1974-09-29T22:40:20.736Z",
+    "Country": "USA"
+  },
+  {
+    "_id": 173,
+    "Name": "Future Works",
+    "Foundingdate": "1957-01-24T21:28:51.388Z",
+    "Country": "USA"
+  },
+  {
+    "_id": 174,
+    "Name": "Epic Interactive",
+    "Foundingdate": "2017-01-04T14:52:57.417Z",
+    "Country": "Japan"
+  },
+  {
+    "_id": 175,
+    "Name": "Golden Entertainment",
+    "Foundingdate": "1958-09-24T19:40:39.860Z",
+    "Country": "Brazil"
+  },
+  {
+    "_id": 176,
+    "Name": "Future Game",
+    "Foundingdate": "1954-12-15T05:24:00.234Z",
+    "Country": "Poland"
+  },
+  {
+    "_id": 177,
+    "Name": "Action Arts",
+    "Foundingdate": "1964-09-24T05:11:33.044Z",
+    "Country": "Brazil"
+  },
+  {
+    "_id": 178,
+    "Name": "Blue Pixel",
+    "Foundingdate": "1968-07-29T00:51:16.721Z",
+    "Country": "Japan"
+  },
+  {
+    "_id": 179,
+    "Name": "Silver Productions",
+    "Foundingdate": "1982-04-15T16:08:07.389Z",
+    "Country": "Japan"
+  },
+  {
+    "_id": 180,
+    "Name": "Legendary Works",
+    "Foundingdate": "2018-07-25T13:43:14.375Z",
+    "Country": "Australia"
+  },
+  {
+    "_id": 181,
+    "Name": "Silver Interactive",
+    "Foundingdate": "1969-10-23T02:37:31.132Z",
+    "Country": "Australia"
+  },
+  {
+    "_id": 182,
+    "Name": "Cyber Soft",
+    "Foundingdate": "1969-11-04T08:34:47.707Z",
+    "Country": "Brazil"
+  },
+  {
+    "_id": 183,
+    "Name": "Beta Pixel",
+    "Foundingdate": "1971-10-06T09:58:36.416Z",
+    "Country": "Germany"
+  },
+  {
+    "_id": 184,
+    "Name": "Green Games",
+    "Foundingdate": "1976-09-29T10:42:30.308Z",
+    "Country": "South Korea"
+  },
+  {
+    "_id": 185,
+    "Name": "Modern Game",
+    "Foundingdate": "2014-10-20T01:14:18.599Z",
+    "Country": "Germany"
+  },
+  {
+    "_id": 186,
+    "Name": "Legendary Productions",
+    "Foundingdate": "2013-12-31T02:53:25.099Z",
+    "Country": "Australia"
+  },
+  {
+    "_id": 187,
+    "Name": "Epic Pixel",
+    "Foundingdate": "1985-01-06T06:44:29.865Z",
+    "Country": "Spain"
+  },
+  {
+    "_id": 188,
+    "Name": "Adventure Games",
+    "Foundingdate": "1992-06-28T01:50:06.805Z",
+    "Country": "China"
+  },
+  {
+    "_id": 189,
+    "Name": "Legendary Entertainment",
+    "Foundingdate": "2012-06-28T12:50:22.442Z",
+    "Country": "Canada"
+  },
+  {
+    "_id": 190,
+    "Name": "Omega Creative",
+    "Foundingdate": "1963-08-27T19:51:46.199Z",
+    "Country": "Canada"
+  },
+  {
+    "_id": 191,
+    "Name": "Red Arts",
+    "Foundingdate": "1967-02-28T14:41:31.043Z",
+    "Country": "China"
+  },
+  {
+    "_id": 192,
+    "Name": "Next Digital",
+    "Foundingdate": "1972-06-07T07:43:39.509Z",
+    "Country": "UK"
+  },
+  {
+    "_id": 193,
+    "Name": "Next Interactive",
+    "Foundingdate": "1997-01-13T01:43:17.393Z",
+    "Country": "Spain"
+  },
+  {
+    "_id": 194,
+    "Name": "Silver Interactive",
+    "Foundingdate": "2002-03-09T09:59:16.356Z",
+    "Country": "Poland"
+  },
+  {
+    "_id": 195,
+    "Name": "Silver Developments",
+    "Foundingdate": "2004-04-21T11:13:21.711Z",
+    "Country": "Brazil"
+  },
+  {
+    "_id": 196,
+    "Name": "Silver Network",
+    "Foundingdate": "1970-11-26T16:55:26.783Z",
+    "Country": "Italy"
+  },
+  {
+    "_id": 197,
+    "Name": "Epic Developments",
+    "Foundingdate": "1960-09-03T10:26:05.064Z",
+    "Country": "Australia"
+  },
+  {
+    "_id": 198,
+    "Name": "Neon Pixel",
+    "Foundingdate": "2020-11-06T10:31:20.064Z",
+    "Country": "Poland"
+  },
+  {
+    "_id": 199,
+    "Name": "Omega Productions",
+    "Foundingdate": "1953-09-22T15:23:47.117Z",
+    "Country": "China"
+  },
+  {
+    "_id": 200,
+    "Name": "Cyber Tech",
+    "Foundingdate": "2003-12-12T08:01:59.152Z",
+    "Country": "Japan"
+  },
+  {
+    "_id": 201,
+    "Name": "Modern Entertainment",
+    "Foundingdate": "1953-09-02T13:28:43.648Z",
+    "Country": "USA"
+  },
+  {
+    "_id": 202,
+    "Name": "Neon Works",
+    "Foundingdate": "1994-08-29T09:25:11.398Z",
+    "Country": "South Korea"
+  },
+  {
+    "_id": 203,
+    "Name": "Blue Pixel",
+    "Foundingdate": "2012-03-02T09:20:17.837Z",
+    "Country": "UK"
+  },
+  {
+    "_id": 204,
+    "Name": "Adventure Interactive",
+    "Foundingdate": "1953-08-26T23:16:39.810Z",
+    "Country": "France"
+  },
+  {
+    "_id": 205,
+    "Name": "Green Games",
+    "Foundingdate": "1952-02-18T09:23:24.891Z",
+    "Country": "Italy"
+  },
+  {
+    "_id": 206,
+    "Name": "Fantasy Soft",
+    "Foundingdate": "1981-09-05T17:50:04.980Z",
+    "Country": "China"
+  },
+  {
+    "_id": 207,
+    "Name": "Beta Tech",
+    "Foundingdate": "1983-07-25T05:16:59.116Z",
+    "Country": "Netherlands"
+  },
+  {
+    "_id": 208,
+    "Name": "Retro Works",
+    "Foundingdate": "1953-06-24T01:49:22.597Z",
+    "Country": "Sweden"
+  },
+  {
+    "_id": 209,
+    "Name": "Next Tech",
+    "Foundingdate": "1968-01-24T19:05:33.128Z",
+    "Country": "Poland"
+  },
+  {
+    "_id": 210,
+    "Name": "Silver Pixel",
+    "Foundingdate": "1994-08-14T02:19:05.601Z",
+    "Country": "South Korea"
+  },
+  {
+    "_id": 211,
+    "Name": "Next Tech",
+    "Foundingdate": "1958-01-19T12:25:46.463Z",
+    "Country": "Australia"
+  },
+  {
+    "_id": 212,
+    "Name": "Ancient Studio",
+    "Foundingdate": "1972-06-03T18:02:55.158Z",
+    "Country": "Poland"
+  },
+  {
+    "_id": 213,
+    "Name": "Fantasy Arts",
+    "Foundingdate": "1994-10-19T23:45:17.680Z",
+    "Country": "UK"
+  },
+  {
+    "_id": 214,
+    "Name": "Legendary Pixel",
+    "Foundingdate": "1979-02-06T04:16:10.420Z",
+    "Country": "Japan"
+  },
+  {
+    "_id": 215,
+    "Name": "Omega Interactive",
+    "Foundingdate": "2010-05-31T02:23:58.190Z",
+    "Country": "South Korea"
+  },
+  {
+    "_id": 216,
+    "Name": "Alpha Digital",
+    "Foundingdate": "1975-10-30T00:40:31.138Z",
+    "Country": "China"
+  },
+  {
+    "_id": 217,
+    "Name": "Alpha Arts",
+    "Foundingdate": "2001-01-07T15:17:54.092Z",
+    "Country": "Japan"
+  },
+  {
+    "_id": 218,
+    "Name": "Adventure Games",
+    "Foundingdate": "1970-12-20T21:53:21.967Z",
+    "Country": "Germany"
+  },
+  {
+    "_id": 219,
+    "Name": "Omega Arts",
+    "Foundingdate": "1971-01-18T13:00:18.248Z",
+    "Country": "France"
+  },
+  {
+    "_id": 220,
+    "Name": "Epic Developments",
+    "Foundingdate": "2004-12-05T00:15:17.606Z",
+    "Country": "Canada"
+  },
+  {
+    "_id": 221,
+    "Name": "Silver Game",
+    "Foundingdate": "1994-04-23T23:44:31.294Z",
+    "Country": "Sweden"
+  },
+  {
+    "_id": 222,
+    "Name": "Omega Works",
+    "Foundingdate": "1968-02-03T02:19:15.539Z",
+    "Country": "France"
+  },
+  {
+    "_id": 223,
+    "Name": "Cyber Soft",
+    "Foundingdate": "1957-09-08T18:26:14.755Z",
+    "Country": "USA"
+  },
+  {
+    "_id": 224,
+    "Name": "Green Games",
+    "Foundingdate": "2019-08-03T23:33:05.302Z",
+    "Country": "Poland"
+  },
+  {
+    "_id": 225,
+    "Name": "Epic Developments",
+    "Foundingdate": "1950-04-27T09:07:50.185Z",
+    "Country": "Australia"
+  },
+  {
+    "_id": 226,
+    "Name": "Golden Tech",
+    "Foundingdate": "1979-10-13T19:25:43.959Z",
+    "Country": "China"
+  },
+  {
+    "_id": 227,
+    "Name": "Epic Interactive",
+    "Foundingdate": "2000-08-08T02:59:06.360Z",
+    "Country": "USA"
+  },
+  {
+    "_id": 228,
+    "Name": "Cyber Game",
+    "Foundingdate": "1962-01-19T07:34:01.101Z",
+    "Country": "France"
+  },
+  {
+    "_id": 229,
+    "Name": "Next Tech",
+    "Foundingdate": "1982-10-25T01:56:50.440Z",
+    "Country": "Sweden"
+  },
+  {
+    "_id": 230,
+    "Name": "Red Digital",
+    "Foundingdate": "1954-12-15T05:29:11.096Z",
+    "Country": "China"
+  },
+  {
+    "_id": 231,
+    "Name": "Green Tech",
+    "Foundingdate": "1995-10-12T02:44:18.309Z",
+    "Country": "Spain"
+  },
+  {
+    "_id": 232,
+    "Name": "Legendary Studio",
+    "Foundingdate": "1996-06-07T08:38:21.350Z",
+    "Country": "Sweden"
+  },
+  {
+    "_id": 233,
+    "Name": "Retro Arts",
+    "Foundingdate": "1986-03-09T01:43:36.166Z",
+    "Country": "Spain"
+  },
+  {
+    "_id": 234,
+    "Name": "Ancient Pixel",
+    "Foundingdate": "1975-01-25T20:39:17.841Z",
+    "Country": "Germany"
+  },
+  {
+    "_id": 235,
+    "Name": "Legendary Pixel",
+    "Foundingdate": "1991-05-13T15:03:38.499Z",
+    "Country": "Poland"
+  },
+  {
+    "_id": 236,
+    "Name": "Green Pixel",
+    "Foundingdate": "1956-01-04T06:33:57.858Z",
+    "Country": "China"
+  },
+  {
+    "_id": 237,
+    "Name": "Epic Productions",
+    "Foundingdate": "1968-05-11T11:31:50.928Z",
+    "Country": "Poland"
+  },
+  {
+    "_id": 238,
+    "Name": "Legendary Soft",
+    "Foundingdate": "1981-11-10T17:50:08.266Z",
+    "Country": "Australia"
+  },
+  {
+    "_id": 239,
+    "Name": "Modern Network",
+    "Foundingdate": "1981-11-14T01:57:52.421Z",
+    "Country": "Germany"
+  },
+  {
+    "_id": 240,
+    "Name": "Golden Interactive",
+    "Foundingdate": "2003-04-19T08:32:41.715Z",
+    "Country": "Sweden"
+  },
+  {
+    "_id": 241,
+    "Name": "Fantasy Tech",
+    "Foundingdate": "1960-12-23T19:37:50.312Z",
+    "Country": "Japan"
+  },
+  {
+    "_id": 242,
+    "Name": "Neon Entertainment",
+    "Foundingdate": "1974-03-23T23:19:03.342Z",
+    "Country": "USA"
+  },
+  {
+    "_id": 243,
+    "Name": "Future Arts",
+    "Foundingdate": "1973-05-02T06:41:32.796Z",
+    "Country": "Sweden"
+  },
+  {
+    "_id": 244,
+    "Name": "Fantasy Entertainment",
+    "Foundingdate": "1996-09-10T17:40:09.231Z",
+    "Country": "France"
+  },
+  {
+    "_id": 245,
+    "Name": "Red Digital",
+    "Foundingdate": "1981-07-09T04:20:28.971Z",
+    "Country": "Netherlands"
+  },
+  {
+    "_id": 246,
+    "Name": "Red Tech",
+    "Foundingdate": "1990-10-29T06:13:17.361Z",
+    "Country": "UK"
+  },
+  {
+    "_id": 247,
+    "Name": "Beta Network",
+    "Foundingdate": "1992-09-21T19:36:17.024Z",
+    "Country": "UK"
+  },
+  {
+    "_id": 248,
+    "Name": "Cyber Entertainment",
+    "Foundingdate": "1991-06-22T07:43:53.338Z",
+    "Country": "Poland"
+  },
+  {
+    "_id": 249,
+    "Name": "Blue Games",
+    "Foundingdate": "1963-04-28T13:26:27.660Z",
+    "Country": "Japan"
+  },
+  {
+    "_id": 250,
+    "Name": "Epic Games",
+    "Foundingdate": "1963-11-24T12:25:23.692Z",
+    "Country": "USA"
+  },
+  {
+    "_id": 251,
+    "Name": "Cyber Pixel",
+    "Foundingdate": "1987-03-22T21:12:41.964Z",
+    "Country": "Germany"
+  },
+  {
+    "_id": 252,
+    "Name": "Fantasy Interactive",
+    "Foundingdate": "1978-08-12T01:35:43.514Z",
+    "Country": "Canada"
+  },
+  {
+    "_id": 253,
+    "Name": "Epic Arts",
+    "Foundingdate": "2000-04-26T15:24:52.688Z",
+    "Country": "Germany"
+  },
+  {
+    "_id": 254,
+    "Name": "Retro Arts",
+    "Foundingdate": "1960-11-11T23:02:42.269Z",
+    "Country": "USA"
+  },
+  {
+    "_id": 255,
+    "Name": "Silver Entertainment",
+    "Foundingdate": "1987-03-14T09:46:44.432Z",
+    "Country": "Spain"
+  },
+  {
+    "_id": 256,
+    "Name": "Silver Game",
+    "Foundingdate": "1975-01-10T07:52:54.836Z",
+    "Country": "Poland"
+  },
+  {
+    "_id": 257,
+    "Name": "Epic Network",
+    "Foundingdate": "1961-10-11T01:06:20.371Z",
+    "Country": "Australia"
+  },
+  {
+    "_id": 258,
+    "Name": "Epic Digital",
+    "Foundingdate": "1959-04-15T22:23:15.614Z",
+    "Country": "France"
+  },
+  {
+    "_id": 259,
+    "Name": "Retro Entertainment",
+    "Foundingdate": "1951-06-05T08:02:37.488Z",
+    "Country": "France"
+  },
+  {
+    "_id": 260,
+    "Name": "Neon Game",
+    "Foundingdate": "2011-09-29T04:29:56.622Z",
+    "Country": "France"
+  },
+  {
+    "_id": 261,
+    "Name": "Adventure Pixel",
+    "Foundingdate": "2001-09-24T01:11:22.072Z",
+    "Country": "Japan"
+  },
+  {
+    "_id": 262,
+    "Name": "Next Pixel",
+    "Foundingdate": "2011-07-25T19:46:52.383Z",
+    "Country": "Germany"
+  },
+  {
+    "_id": 263,
+    "Name": "Ancient Productions",
+    "Foundingdate": "1995-02-04T05:35:10.230Z",
+    "Country": "Brazil"
+  },
+  {
+    "_id": 264,
+    "Name": "Silver Creative",
+    "Foundingdate": "2007-10-31T11:15:29.112Z",
+    "Country": "France"
+  },
+  {
+    "_id": 265,
+    "Name": "Epic Arts",
+    "Foundingdate": "1967-09-12T20:18:44.288Z",
+    "Country": "Germany"
+  },
+  {
+    "_id": 266,
+    "Name": "Next Developments",
+    "Foundingdate": "2011-04-04T23:48:05.622Z",
+    "Country": "Poland"
+  },
+  {
+    "_id": 267,
+    "Name": "Silver Studio",
+    "Foundingdate": "1975-12-18T02:31:07.031Z",
+    "Country": "Japan"
+  },
+  {
+    "_id": 268,
+    "Name": "Silver Studio",
+    "Foundingdate": "1992-11-13T04:02:27.910Z",
+    "Country": "South Korea"
+  },
+  {
+    "_id": 269,
+    "Name": "Alpha Arts",
+    "Foundingdate": "1965-06-28T22:38:06.988Z",
+    "Country": "China"
+  },
+  {
+    "_id": 270,
+    "Name": "Red Soft",
+    "Foundingdate": "1968-01-15T01:36:14.323Z",
+    "Country": "Poland"
+  },
+  {
+    "_id": 271,
+    "Name": "Omega Pixel",
+    "Foundingdate": "2018-03-23T02:43:37.384Z",
+    "Country": "China"
+  },
+  {
+    "_id": 272,
+    "Name": "Future Creative",
+    "Foundingdate": "2016-08-20T23:58:58.361Z",
+    "Country": "Germany"
+  },
+  {
+    "_id": 273,
+    "Name": "Ancient Network",
+    "Foundingdate": "1980-02-23T22:55:14.938Z",
+    "Country": "Sweden"
+  },
+  {
+    "_id": 274,
+    "Name": "Beta Creative",
+    "Foundingdate": "1993-10-13T21:25:52.755Z",
+    "Country": "UK"
+  },
+  {
+    "_id": 275,
+    "Name": "Next Games",
+    "Foundingdate": "1974-10-17T02:02:17.374Z",
+    "Country": "Sweden"
+  },
+  {
+    "_id": 276,
+    "Name": "Action Studio",
+    "Foundingdate": "1977-01-31T18:06:19.855Z",
+    "Country": "Spain"
+  },
+  {
+    "_id": 277,
+    "Name": "Omega Game",
+    "Foundingdate": "1999-01-12T13:17:42.383Z",
+    "Country": "Australia"
+  },
+  {
+    "_id": 278,
+    "Name": "Ancient Creative",
+    "Foundingdate": "1966-03-26T14:26:23.905Z",
+    "Country": "Sweden"
+  },
+  {
+    "_id": 279,
+    "Name": "Alpha Entertainment",
+    "Foundingdate": "2019-03-04T01:58:36.746Z",
+    "Country": "South Korea"
+  },
+  {
+    "_id": 280,
+    "Name": "Beta Works",
+    "Foundingdate": "1950-09-25T14:22:03.051Z",
+    "Country": "UK"
+  },
+  {
+    "_id": 281,
+    "Name": "Next Tech",
+    "Foundingdate": "1984-02-08T07:25:09.894Z",
+    "Country": "Brazil"
+  },
+  {
+    "_id": 282,
+    "Name": "Beta Digital",
+    "Foundingdate": "2011-09-09T11:28:29.410Z",
+    "Country": "South Korea"
+  },
+  {
+    "_id": 283,
+    "Name": "Future Productions",
+    "Foundingdate": "1951-10-15T21:06:37.513Z",
+    "Country": "China"
+  },
+  {
+    "_id": 284,
+    "Name": "Next Developments",
+    "Foundingdate": "2013-12-13T10:31:34.987Z",
+    "Country": "France"
+  },
+  {
+    "_id": 285,
+    "Name": "Silver Productions",
+    "Foundingdate": "1993-11-16T08:42:18.722Z",
+    "Country": "South Korea"
+  },
+  {
+    "_id": 286,
+    "Name": "Future Interactive",
+    "Foundingdate": "1972-02-11T00:27:06.608Z",
+    "Country": "Poland"
+  },
+  {
+    "_id": 287,
+    "Name": "Alpha Digital",
+    "Foundingdate": "1956-06-13T14:57:07.699Z",
+    "Country": "Brazil"
+  },
+  {
+    "_id": 288,
+    "Name": "Golden Tech",
+    "Foundingdate": "1966-05-06T02:15:43.874Z",
+    "Country": "UK"
+  },
+  {
+    "_id": 289,
+    "Name": "Fantasy Studio",
+    "Foundingdate": "1970-06-25T08:41:37.015Z",
+    "Country": "Japan"
+  },
+  {
+    "_id": 290,
+    "Name": "Action Tech",
+    "Foundingdate": "1973-01-09T18:40:45.379Z",
+    "Country": "UK"
+  },
+  {
+    "_id": 291,
+    "Name": "Future Digital",
+    "Foundingdate": "1973-12-01T07:31:15.710Z",
+    "Country": "USA"
+  },
+  {
+    "_id": 292,
+    "Name": "Red Game",
+    "Foundingdate": "1952-09-09T03:56:58.376Z",
+    "Country": "Australia"
+  },
+  {
+    "_id": 293,
+    "Name": "Omega Creative",
+    "Foundingdate": "1957-09-18T02:58:51.443Z",
+    "Country": "France"
+  },
+  {
+    "_id": 294,
+    "Name": "Blue Creative",
+    "Foundingdate": "1954-09-04T11:41:58.038Z",
+    "Country": "Italy"
+  },
+  {
+    "_id": 295,
+    "Name": "Green Arts",
+    "Foundingdate": "1960-12-13T18:45:05.862Z",
+    "Country": "USA"
+  },
+  {
+    "_id": 296,
+    "Name": "Next Digital",
+    "Foundingdate": "2002-06-27T08:50:31.679Z",
+    "Country": "Japan"
+  },
+  {
+    "_id": 297,
+    "Name": "Green Developments",
+    "Foundingdate": "1956-04-11T18:02:05.233Z",
+    "Country": "Spain"
+  },
+  {
+    "_id": 298,
+    "Name": "Blue Interactive",
+    "Foundingdate": "2019-06-16T15:56:27.643Z",
+    "Country": "Netherlands"
+  },
+  {
+    "_id": 299,
+    "Name": "Ancient Interactive",
+    "Foundingdate": "1962-05-20T20:01:09.430Z",
+    "Country": "UK"
+  },
+  {
+    "_id": 300,
+    "Name": "Adventure Tech",
+    "Foundingdate": "1962-05-01T11:25:46.748Z",
+    "Country": "Germany"
+  },
+  {
+    "_id": 301,
+    "Name": "Legendary Games",
+    "Foundingdate": "1986-02-25T02:08:51.086Z",
+    "Country": "Poland"
+  },
+  {
+    "_id": 302,
+    "Name": "Silver Tech",
+    "Foundingdate": "1956-08-14T11:01:57.957Z",
+    "Country": "UK"
+  },
+  {
+    "_id": 303,
+    "Name": "Next Network",
+    "Foundingdate": "2002-03-09T12:45:08.999Z",
+    "Country": "Italy"
+  },
+  {
+    "_id": 304,
+    "Name": "Legendary Digital",
+    "Foundingdate": "2005-05-21T07:26:25.378Z",
+    "Country": "Canada"
+  },
+  {
+    "_id": 305,
+    "Name": "Action Creative",
+    "Foundingdate": "1951-05-31T08:48:44.953Z",
+    "Country": "Brazil"
+  },
+  {
+    "_id": 306,
+    "Name": "Golden Game",
+    "Foundingdate": "2019-10-03T23:36:16.288Z",
+    "Country": "Germany"
+  },
+  {
+    "_id": 307,
+    "Name": "Beta Game",
+    "Foundingdate": "1998-10-25T19:55:28.402Z",
+    "Country": "Japan"
+  },
+  {
+    "_id": 308,
+    "Name": "Golden Game",
+    "Foundingdate": "1961-10-07T10:50:25.538Z",
+    "Country": "Italy"
+  },
+  {
+    "_id": 309,
+    "Name": "Next Pixel",
+    "Foundingdate": "1987-04-13T06:00:45.891Z",
+    "Country": "Sweden"
+  },
+  {
+    "_id": 310,
+    "Name": "Fantasy Tech",
+    "Foundingdate": "2012-10-01T15:15:33.173Z",
+    "Country": "Germany"
+  },
+  {
+    "_id": 311,
+    "Name": "Green Entertainment",
+    "Foundingdate": "1966-08-24T16:04:25.656Z",
+    "Country": "Japan"
+  },
+  {
+    "_id": 312,
+    "Name": "Action Network",
+    "Foundingdate": "2009-03-25T01:51:14.409Z",
+    "Country": "China"
+  },
+  {
+    "_id": 313,
+    "Name": "Epic Game",
+    "Foundingdate": "2018-11-03T17:23:48.139Z",
+    "Country": "UK"
+  },
+  {
+    "_id": 314,
+    "Name": "Fantasy Creative",
+    "Foundingdate": "1952-12-08T14:49:25.344Z",
+    "Country": "Sweden"
+  },
+  {
+    "_id": 315,
+    "Name": "Beta Creative",
+    "Foundingdate": "1952-05-28T07:04:27.624Z",
+    "Country": "Japan"
+  },
+  {
+    "_id": 316,
+    "Name": "Golden Creative",
+    "Foundingdate": "1988-04-13T22:46:58.095Z",
+    "Country": "UK"
+  },
+  {
+    "_id": 317,
+    "Name": "Blue Arts",
+    "Foundingdate": "1976-12-26T20:05:41.010Z",
+    "Country": "Netherlands"
+  },
+  {
+    "_id": 318,
+    "Name": "Next Arts",
+    "Foundingdate": "1953-09-13T09:20:48.889Z",
+    "Country": "France"
+  },
+  {
+    "_id": 319,
+    "Name": "Beta Creative",
+    "Foundingdate": "1964-01-18T19:02:53.463Z",
+    "Country": "China"
+  },
+  {
+    "_id": 320,
+    "Name": "Retro Studio",
+    "Foundingdate": "1990-03-02T11:15:05.247Z",
+    "Country": "Brazil"
+  },
+  {
+    "_id": 321,
+    "Name": "Legendary Network",
+    "Foundingdate": "1996-09-22T23:25:56.014Z",
+    "Country": "Italy"
+  },
+  {
+    "_id": 322,
+    "Name": "Modern Developments",
+    "Foundingdate": "1954-02-17T22:58:26.794Z",
+    "Country": "Poland"
+  },
+  {
+    "_id": 323,
+    "Name": "Ancient Developments",
+    "Foundingdate": "1990-10-14T01:04:34.848Z",
+    "Country": "France"
+  },
+  {
+    "_id": 324,
+    "Name": "Adventure Tech",
+    "Foundingdate": "1974-06-28T16:51:52.739Z",
+    "Country": "Italy"
+  },
+  {
+    "_id": 325,
+    "Name": "Future Soft",
+    "Foundingdate": "1963-12-13T13:28:08.918Z",
+    "Country": "USA"
+  },
+  {
+    "_id": 326,
+    "Name": "Green Game",
+    "Foundingdate": "1961-04-26T22:31:36.630Z",
+    "Country": "UK"
+  },
+  {
+    "_id": 327,
+    "Name": "Adventure Works",
+    "Foundingdate": "1969-10-25T14:11:58.167Z",
+    "Country": "Poland"
+  },
+  {
+    "_id": 328,
+    "Name": "Red Pixel",
+    "Foundingdate": "1956-06-07T08:24:59.347Z",
+    "Country": "Spain"
+  },
+  {
+    "_id": 329,
+    "Name": "Neon Arts",
+    "Foundingdate": "1960-03-28T03:42:43.201Z",
+    "Country": "Brazil"
+  },
+  {
+    "_id": 330,
+    "Name": "Neon Works",
+    "Foundingdate": "2000-10-15T21:01:53.808Z",
+    "Country": "South Korea"
+  },
+  {
+    "_id": 331,
+    "Name": "Golden Games",
+    "Foundingdate": "2003-02-04T12:26:22.513Z",
+    "Country": "USA"
+  },
+  {
+    "_id": 332,
+    "Name": "Silver Works",
+    "Foundingdate": "2007-05-08T01:58:00.564Z",
+    "Country": "Netherlands"
+  },
+  {
+    "_id": 333,
+    "Name": "Beta Developments",
+    "Foundingdate": "2008-04-08T21:37:23.681Z",
+    "Country": "Germany"
+  },
+  {
+    "_id": 334,
+    "Name": "Omega Studio",
+    "Foundingdate": "2013-11-21T16:39:49.915Z",
+    "Country": "Italy"
+  },
+  {
+    "_id": 335,
+    "Name": "Beta Works",
+    "Foundingdate": "1952-10-02T07:55:34.405Z",
+    "Country": "UK"
+  },
+  {
+    "_id": 336,
+    "Name": "Silver Tech",
+    "Foundingdate": "1963-09-08T14:02:37.276Z",
+    "Country": "China"
+  },
+  {
+    "_id": 337,
+    "Name": "Adventure Digital",
+    "Foundingdate": "1982-08-30T03:05:54.794Z",
+    "Country": "France"
+  },
+  {
+    "_id": 338,
+    "Name": "Cyber Interactive",
+    "Foundingdate": "1954-05-28T09:29:29.627Z",
+    "Country": "China"
+  },
+  {
+    "_id": 339,
+    "Name": "Legendary Digital",
+    "Foundingdate": "2009-06-19T09:16:27.246Z",
+    "Country": "Japan"
+  },
+  {
+    "_id": 340,
+    "Name": "Adventure Digital",
+    "Foundingdate": "1985-08-03T20:40:00.564Z",
+    "Country": "Brazil"
+  },
+  {
+    "_id": 341,
+    "Name": "Retro Game",
+    "Foundingdate": "2013-08-31T00:30:58.971Z",
+    "Country": "Spain"
+  },
+  {
+    "_id": 342,
+    "Name": "Alpha Developments",
+    "Foundingdate": "2018-07-07T17:05:35.899Z",
+    "Country": "Brazil"
+  },
+  {
+    "_id": 343,
+    "Name": "Legendary Digital",
+    "Foundingdate": "2002-07-24T08:47:00.798Z",
+    "Country": "Germany"
+  },
+  {
+    "_id": 344,
+    "Name": "Next Arts",
+    "Foundingdate": "1980-07-04T05:06:44.335Z",
+    "Country": "Spain"
+  },
+  {
+    "_id": 345,
+    "Name": "Beta Works",
+    "Foundingdate": "2017-02-01T04:21:41.492Z",
+    "Country": "Netherlands"
+  },
+  {
+    "_id": 346,
+    "Name": "Silver Productions",
+    "Foundingdate": "1969-01-28T02:48:34.109Z",
+    "Country": "Italy"
+  },
+  {
+    "_id": 347,
+    "Name": "Next Studio",
+    "Foundingdate": "2020-10-21T09:48:51.439Z",
+    "Country": "Canada"
+  },
+  {
+    "_id": 348,
+    "Name": "Action Soft",
+    "Foundingdate": "1999-01-11T19:46:56.850Z",
+    "Country": "USA"
+  },
+  {
+    "_id": 349,
+    "Name": "Legendary Digital",
+    "Foundingdate": "2004-04-02T05:37:39.817Z",
+    "Country": "UK"
+  },
+  {
+    "_id": 350,
+    "Name": "Red Pixel",
+    "Foundingdate": "1989-10-10T06:31:26.681Z",
+    "Country": "USA"
+  },
+  {
+    "_id": 351,
+    "Name": "Next Interactive",
+    "Foundingdate": "1965-11-06T23:13:46.934Z",
+    "Country": "Australia"
+  },
+  {
+    "_id": 352,
+    "Name": "Blue Games",
+    "Foundingdate": "1995-12-08T00:02:28.225Z",
+    "Country": "Spain"
+  },
+  {
+    "_id": 353,
+    "Name": "Blue Pixel",
+    "Foundingdate": "2009-08-16T12:24:45.331Z",
+    "Country": "Italy"
+  },
+  {
+    "_id": 354,
+    "Name": "Retro Arts",
+    "Foundingdate": "2006-08-11T13:18:28.781Z",
+    "Country": "Germany"
+  },
+  {
+    "_id": 355,
+    "Name": "Future Pixel",
+    "Foundingdate": "1982-02-14T02:54:21.984Z",
+    "Country": "Netherlands"
+  },
+  {
+    "_id": 356,
+    "Name": "Legendary Developments",
+    "Foundingdate": "1954-04-01T17:10:09.711Z",
+    "Country": "Australia"
+  },
+  {
+    "_id": 357,
+    "Name": "Epic Works",
+    "Foundingdate": "1950-08-22T01:18:16.461Z",
+    "Country": "Spain"
+  },
+  {
+    "_id": 358,
+    "Name": "Red Games",
+    "Foundingdate": "1960-05-17T05:32:58.759Z",
+    "Country": "Sweden"
+  },
+  {
+    "_id": 359,
+    "Name": "Red Game",
+    "Foundingdate": "1956-07-08T04:51:42.093Z",
+    "Country": "Spain"
+  },
+  {
+    "_id": 360,
+    "Name": "Green Pixel",
+    "Foundingdate": "1979-04-08T15:57:58.392Z",
+    "Country": "Spain"
+  },
+  {
+    "_id": 361,
+    "Name": "Blue Arts",
+    "Foundingdate": "1996-06-06T01:22:04.488Z",
+    "Country": "Canada"
+  },
+  {
+    "_id": 362,
+    "Name": "Omega Pixel",
+    "Foundingdate": "1961-05-01T10:13:45.582Z",
+    "Country": "USA"
+  },
+  {
+    "_id": 363,
+    "Name": "Alpha Pixel",
+    "Foundingdate": "2006-02-28T06:04:37.690Z",
+    "Country": "Brazil"
+  },
+  {
+    "_id": 364,
+    "Name": "Alpha Tech",
+    "Foundingdate": "1967-12-31T11:57:45.528Z",
+    "Country": "Germany"
+  },
+  {
+    "_id": 365,
+    "Name": "Cyber Entertainment",
+    "Foundingdate": "1993-07-03T01:26:48.619Z",
+    "Country": "Brazil"
+  },
+  {
+    "_id": 366,
+    "Name": "Retro Digital",
+    "Foundingdate": "2020-02-12T16:07:17.914Z",
+    "Country": "Germany"
+  },
+  {
+    "_id": 367,
+    "Name": "Omega Productions",
+    "Foundingdate": "1982-08-27T12:18:01.044Z",
+    "Country": "South Korea"
+  },
+  {
+    "_id": 368,
+    "Name": "Beta Pixel",
+    "Foundingdate": "1988-10-29T19:46:03.643Z",
+    "Country": "Canada"
+  },
+  {
+    "_id": 369,
+    "Name": "Modern Game",
+    "Foundingdate": "2013-08-17T21:13:06.738Z",
+    "Country": "Australia"
+  },
+  {
+    "_id": 370,
+    "Name": "Future Productions",
+    "Foundingdate": "2007-02-16T09:44:02.158Z",
+    "Country": "Brazil"
+  },
+  {
+    "_id": 371,
+    "Name": "Retro Tech",
+    "Foundingdate": "1977-07-05T10:04:59.039Z",
+    "Country": "Netherlands"
+  },
+  {
+    "_id": 372,
+    "Name": "Modern Games",
+    "Foundingdate": "1955-10-18T17:27:46.480Z",
+    "Country": "France"
+  },
+  {
+    "_id": 373,
+    "Name": "Adventure Productions",
+    "Foundingdate": "1975-07-04T17:31:44.712Z",
+    "Country": "Poland"
+  },
+  {
+    "_id": 374,
+    "Name": "Epic Productions",
+    "Foundingdate": "1992-08-07T09:15:24.621Z",
+    "Country": "Poland"
+  },
+  {
+    "_id": 375,
+    "Name": "Golden Developments",
+    "Foundingdate": "1973-03-20T19:29:35.858Z",
+    "Country": "Brazil"
+  },
+  {
+    "_id": 376,
+    "Name": "Blue Soft",
+    "Foundingdate": "1971-11-18T01:32:53.658Z",
+    "Country": "Brazil"
+  },
+  {
+    "_id": 377,
+    "Name": "Retro Productions",
+    "Foundingdate": "1982-11-12T18:23:17.339Z",
+    "Country": "Spain"
+  },
+  {
+    "_id": 378,
+    "Name": "Cyber Soft",
+    "Foundingdate": "1951-05-31T20:35:30.669Z",
+    "Country": "Italy"
+  },
+  {
+    "_id": 379,
+    "Name": "Alpha Creative",
+    "Foundingdate": "1956-09-30T18:56:12.102Z",
+    "Country": "USA"
+  },
+  {
+    "_id": 380,
+    "Name": "Epic Developments",
+    "Foundingdate": "2014-11-28T09:58:04.598Z",
+    "Country": "China"
+  },
+  {
+    "_id": 381,
+    "Name": "Retro Creative",
+    "Foundingdate": "1956-11-01T00:25:07.914Z",
+    "Country": "Poland"
+  },
+  {
+    "_id": 382,
+    "Name": "Omega Works",
+    "Foundingdate": "1989-03-13T07:07:56.341Z",
+    "Country": "Canada"
+  },
+  {
+    "_id": 383,
+    "Name": "Cyber Soft",
+    "Foundingdate": "1979-01-05T14:42:57.151Z",
+    "Country": "France"
+  },
+  {
+    "_id": 384,
+    "Name": "Omega Digital",
+    "Foundingdate": "1999-10-02T20:07:47.051Z",
+    "Country": "Spain"
+  },
+  {
+    "_id": 385,
+    "Name": "Epic Studio",
+    "Foundingdate": "1987-09-02T19:06:02.384Z",
+    "Country": "Brazil"
+  },
+  {
+    "_id": 386,
+    "Name": "Cyber Soft",
+    "Foundingdate": "1984-06-15T20:21:48.824Z",
+    "Country": "France"
+  },
+  {
+    "_id": 387,
+    "Name": "Modern Entertainment",
+    "Foundingdate": "1955-12-31T10:52:32.268Z",
+    "Country": "Italy"
+  },
+  {
+    "_id": 388,
+    "Name": "Modern Network",
+    "Foundingdate": "2011-11-24T04:31:35.221Z",
+    "Country": "Canada"
+  },
+  {
+    "_id": 389,
+    "Name": "Cyber Games",
+    "Foundingdate": "1993-08-23T15:13:16.192Z",
+    "Country": "Germany"
+  },
+  {
+    "_id": 390,
+    "Name": "Omega Soft",
+    "Foundingdate": "1992-03-14T00:43:06.009Z",
+    "Country": "Spain"
+  },
+  {
+    "_id": 391,
+    "Name": "Next Tech",
+    "Foundingdate": "1982-12-09T17:59:26.526Z",
+    "Country": "Brazil"
+  },
+  {
+    "_id": 392,
+    "Name": "Future Creative",
+    "Foundingdate": "2007-05-04T02:03:07.866Z",
+    "Country": "Brazil"
+  },
+  {
+    "_id": 393,
+    "Name": "Blue Digital",
+    "Foundingdate": "1993-03-04T03:51:11.921Z",
+    "Country": "Spain"
+  },
+  {
+    "_id": 394,
+    "Name": "Red Game",
+    "Foundingdate": "1960-11-26T03:15:28.534Z",
+    "Country": "Italy"
+  },
+  {
+    "_id": 395,
+    "Name": "Blue Creative",
+    "Foundingdate": "1967-01-17T12:51:17.475Z",
+    "Country": "China"
+  },
+  {
+    "_id": 396,
+    "Name": "Omega Studio",
+    "Foundingdate": "1986-12-10T20:00:55.031Z",
+    "Country": "Spain"
+  },
+  {
+    "_id": 397,
+    "Name": "Next Soft",
+    "Foundingdate": "1976-03-15T01:33:02.111Z",
+    "Country": "Brazil"
+  },
+  {
+    "_id": 398,
+    "Name": "Retro Interactive",
+    "Foundingdate": "2012-03-21T18:09:18.537Z",
+    "Country": "Japan"
+  },
+  {
+    "_id": 399,
+    "Name": "Golden Game",
+    "Foundingdate": "1996-12-29T13:37:16.645Z",
+    "Country": "Germany"
+  },
+  {
+    "_id": 400,
+    "Name": "Action Productions",
+    "Foundingdate": "1953-10-12T09:31:44.548Z",
+    "Country": "Brazil"
+  },
+  {
+    "_id": 401,
+    "Name": "Beta Network",
+    "Foundingdate": "1983-11-22T15:56:36.719Z",
+    "Country": "China"
+  },
+  {
+    "_id": 402,
+    "Name": "Cyber Arts",
+    "Foundingdate": "1968-09-18T12:19:36.143Z",
+    "Country": "Japan"
+  },
+  {
+    "_id": 403,
+    "Name": "Adventure Soft",
+    "Foundingdate": "1967-10-30T02:49:26.548Z",
+    "Country": "Poland"
+  },
+  {
+    "_id": 404,
+    "Name": "Cyber Games",
+    "Foundingdate": "1980-05-05T23:15:06.320Z",
+    "Country": "Netherlands"
+  },
+  {
+    "_id": 405,
+    "Name": "Omega Entertainment",
+    "Foundingdate": "1972-07-16T21:28:38.838Z",
+    "Country": "Netherlands"
+  },
+  {
+    "_id": 406,
+    "Name": "Red Tech",
+    "Foundingdate": "1988-07-13T22:47:33.941Z",
+    "Country": "USA"
+  },
+  {
+    "_id": 407,
+    "Name": "Adventure Pixel",
+    "Foundingdate": "1983-08-21T01:43:47.296Z",
+    "Country": "Australia"
+  },
+  {
+    "_id": 408,
+    "Name": "Next Entertainment",
+    "Foundingdate": "2004-02-06T11:05:07.800Z",
+    "Country": "Germany"
+  },
+  {
+    "_id": 409,
+    "Name": "Red Entertainment",
+    "Foundingdate": "1967-02-09T09:01:55.585Z",
+    "Country": "Germany"
+  },
+  {
+    "_id": 410,
+    "Name": "Blue Studio",
+    "Foundingdate": "1982-06-01T23:36:28.676Z",
+    "Country": "Poland"
+  },
+  {
+    "_id": 411,
+    "Name": "Neon Entertainment",
+    "Foundingdate": "1989-06-08T09:16:05.502Z",
+    "Country": "Brazil"
+  },
+  {
+    "_id": 412,
+    "Name": "Legendary Developments",
+    "Foundingdate": "2008-03-11T17:15:07.507Z",
+    "Country": "France"
+  },
+  {
+    "_id": 413,
+    "Name": "Neon Games",
+    "Foundingdate": "2015-08-28T08:00:10.725Z",
+    "Country": "Germany"
+  },
+  {
+    "_id": 414,
+    "Name": "Alpha Interactive",
+    "Foundingdate": "1968-10-16T18:27:46.331Z",
+    "Country": "Canada"
+  },
+  {
+    "_id": 415,
+    "Name": "Ancient Digital",
+    "Foundingdate": "1956-09-23T05:47:50.096Z",
+    "Country": "Sweden"
+  },
+  {
+    "_id": 416,
+    "Name": "Silver Game",
+    "Foundingdate": "1961-11-09T16:06:46.073Z",
+    "Country": "USA"
+  },
+  {
+    "_id": 417,
+    "Name": "Retro Tech",
+    "Foundingdate": "1976-08-07T05:05:31.462Z",
+    "Country": "USA"
+  },
+  {
+    "_id": 418,
+    "Name": "Ancient Soft",
+    "Foundingdate": "1988-11-18T02:57:34.989Z",
+    "Country": "China"
+  },
+  {
+    "_id": 419,
+    "Name": "Omega Arts",
+    "Foundingdate": "1973-04-22T09:43:37.673Z",
+    "Country": "Japan"
+  },
+  {
+    "_id": 420,
+    "Name": "Omega Pixel",
+    "Foundingdate": "1965-03-23T11:22:19.068Z",
+    "Country": "China"
+  },
+  {
+    "_id": 421,
+    "Name": "Next Creative",
+    "Foundingdate": "2009-07-23T02:29:11.882Z",
+    "Country": "France"
+  },
+  {
+    "_id": 422,
+    "Name": "Blue Network",
+    "Foundingdate": "1970-01-22T11:10:14.793Z",
+    "Country": "Italy"
+  },
+  {
+    "_id": 423,
+    "Name": "Omega Interactive",
+    "Foundingdate": "2008-08-03T13:26:24.407Z",
+    "Country": "France"
+  },
+  {
+    "_id": 424,
+    "Name": "Green Entertainment",
+    "Foundingdate": "1994-07-15T21:51:11.282Z",
+    "Country": "Spain"
+  },
+  {
+    "_id": 425,
+    "Name": "Future Games",
+    "Foundingdate": "1979-05-29T18:39:57.957Z",
+    "Country": "Netherlands"
+  },
+  {
+    "_id": 426,
+    "Name": "Red Works",
+    "Foundingdate": "1956-12-18T14:01:19.028Z",
+    "Country": "Poland"
+  },
+  {
+    "_id": 427,
+    "Name": "Future Tech",
+    "Foundingdate": "2012-07-03T04:02:53.973Z",
+    "Country": "Australia"
+  },
+  {
+    "_id": 428,
+    "Name": "Red Tech",
+    "Foundingdate": "2001-09-15T18:12:15.646Z",
+    "Country": "South Korea"
+  },
+  {
+    "_id": 429,
+    "Name": "Neon Works",
+    "Foundingdate": "1978-10-05T22:41:52.393Z",
+    "Country": "Netherlands"
+  },
+  {
+    "_id": 430,
+    "Name": "Action Interactive",
+    "Foundingdate": "2014-11-12T03:45:04.573Z",
+    "Country": "Poland"
+  },
+  {
+    "_id": 431,
+    "Name": "Fantasy Tech",
+    "Foundingdate": "2011-03-29T14:29:07.945Z",
+    "Country": "Canada"
+  },
+  {
+    "_id": 432,
+    "Name": "Silver Entertainment",
+    "Foundingdate": "2016-07-29T15:15:26.735Z",
+    "Country": "UK"
+  },
+  {
+    "_id": 433,
+    "Name": "Adventure Arts",
+    "Foundingdate": "2011-07-09T11:06:33.144Z",
+    "Country": "Australia"
+  },
+  {
+    "_id": 434,
+    "Name": "Epic Studio",
+    "Foundingdate": "1981-06-05T17:12:26.891Z",
+    "Country": "Japan"
+  },
+  {
+    "_id": 435,
+    "Name": "Next Pixel",
+    "Foundingdate": "1971-01-27T18:05:46.239Z",
+    "Country": "Italy"
+  },
+  {
+    "_id": 436,
+    "Name": "Red Interactive",
+    "Foundingdate": "1996-07-22T03:09:18.087Z",
+    "Country": "South Korea"
+  },
+  {
+    "_id": 437,
+    "Name": "Action Arts",
+    "Foundingdate": "1957-04-15T10:19:03.312Z",
+    "Country": "China"
+  },
+  {
+    "_id": 438,
+    "Name": "Legendary Studio",
+    "Foundingdate": "1975-12-11T11:17:27.312Z",
+    "Country": "Japan"
+  },
+  {
+    "_id": 439,
+    "Name": "Future Developments",
+    "Foundingdate": "1959-02-04T13:54:51.558Z",
+    "Country": "Japan"
+  },
+  {
+    "_id": 440,
+    "Name": "Silver Pixel",
+    "Foundingdate": "2008-10-11T23:53:13.730Z",
+    "Country": "USA"
+  },
+  {
+    "_id": 441,
+    "Name": "Omega Network",
+    "Foundingdate": "2003-12-22T03:26:05.506Z",
+    "Country": "South Korea"
+  },
+  {
+    "_id": 442,
+    "Name": "Beta Developments",
+    "Foundingdate": "1968-10-12T14:51:28.645Z",
+    "Country": "Brazil"
+  },
+  {
+    "_id": 443,
+    "Name": "Silver Studio",
+    "Foundingdate": "2002-02-02T02:34:32.370Z",
+    "Country": "France"
+  },
+  {
+    "_id": 444,
+    "Name": "Golden Arts",
+    "Foundingdate": "1956-03-30T06:00:20.138Z",
+    "Country": "Japan"
+  },
+  {
+    "_id": 445,
+    "Name": "Action Games",
+    "Foundingdate": "1952-12-16T02:37:14.986Z",
+    "Country": "Netherlands"
+  },
+  {
+    "_id": 446,
+    "Name": "Neon Arts",
+    "Foundingdate": "1966-07-10T10:38:03.416Z",
+    "Country": "France"
+  },
+  {
+    "_id": 447,
+    "Name": "Fantasy Game",
+    "Foundingdate": "2003-07-02T16:13:40.442Z",
+    "Country": "South Korea"
+  },
+  {
+    "_id": 448,
+    "Name": "Modern Pixel",
+    "Foundingdate": "2018-01-16T14:23:55.651Z",
+    "Country": "China"
+  },
+  {
+    "_id": 449,
+    "Name": "Epic Creative",
+    "Foundingdate": "1961-01-24T17:58:10.822Z",
+    "Country": "South Korea"
+  },
+  {
+    "_id": 450,
+    "Name": "Adventure Studio",
+    "Foundingdate": "1975-12-28T14:09:36.296Z",
+    "Country": "Netherlands"
+  },
+  {
+    "_id": 451,
+    "Name": "Neon Interactive",
+    "Foundingdate": "1998-08-07T18:17:08.928Z",
+    "Country": "Canada"
+  },
+  {
+    "_id": 452,
+    "Name": "Retro Creative",
+    "Foundingdate": "2002-10-15T01:51:27.633Z",
+    "Country": "Japan"
+  },
+  {
+    "_id": 453,
+    "Name": "Green Works",
+    "Foundingdate": "1969-10-23T22:33:35.111Z",
+    "Country": "Sweden"
+  },
+  {
+    "_id": 454,
+    "Name": "Golden Works",
+    "Foundingdate": "2006-01-09T00:44:50.093Z",
+    "Country": "UK"
+  },
+  {
+    "_id": 455,
+    "Name": "Ancient Works",
+    "Foundingdate": "2002-12-19T16:34:02.356Z",
+    "Country": "Spain"
+  },
+  {
+    "_id": 456,
+    "Name": "Beta Creative",
+    "Foundingdate": "1971-08-31T12:53:26.205Z",
+    "Country": "France"
+  },
+  {
+    "_id": 457,
+    "Name": "Action Developments",
+    "Foundingdate": "1988-01-29T23:43:12.019Z",
+    "Country": "USA"
+  },
+  {
+    "_id": 458,
+    "Name": "Blue Interactive",
+    "Foundingdate": "2020-05-15T18:41:46.282Z",
+    "Country": "South Korea"
+  },
+  {
+    "_id": 459,
+    "Name": "Omega Interactive",
+    "Foundingdate": "1974-07-18T13:23:05.837Z",
+    "Country": "Canada"
+  },
+  {
+    "_id": 460,
+    "Name": "Retro Tech",
+    "Foundingdate": "1978-06-19T04:08:01.706Z",
+    "Country": "Germany"
+  },
+  {
+    "_id": 461,
+    "Name": "Ancient Developments",
+    "Foundingdate": "1964-06-16T11:24:47.081Z",
+    "Country": "Canada"
+  },
+  {
+    "_id": 462,
+    "Name": "Fantasy Digital",
+    "Foundingdate": "2016-06-10T00:20:19.077Z",
+    "Country": "Netherlands"
+  },
+  {
+    "_id": 463,
+    "Name": "Cyber Games",
+    "Foundingdate": "1960-11-09T00:17:57.246Z",
+    "Country": "Poland"
+  },
+  {
+    "_id": 464,
+    "Name": "Ancient Creative",
+    "Foundingdate": "2004-07-29T23:20:46.087Z",
+    "Country": "Sweden"
+  },
+  {
+    "_id": 465,
+    "Name": "Fantasy Studio",
+    "Foundingdate": "1973-10-08T13:12:42.222Z",
+    "Country": "France"
+  },
+  {
+    "_id": 466,
+    "Name": "Beta Entertainment",
+    "Foundingdate": "1999-07-27T22:18:27.057Z",
+    "Country": "France"
+  },
+  {
+    "_id": 467,
+    "Name": "Next Pixel",
+    "Foundingdate": "2018-08-12T19:00:13.170Z",
+    "Country": "China"
+  },
+  {
+    "_id": 468,
+    "Name": "Epic Studio",
+    "Foundingdate": "2009-07-10T05:05:02.253Z",
+    "Country": "Japan"
+  },
+  {
+    "_id": 469,
+    "Name": "Red Game",
+    "Foundingdate": "1993-01-07T10:47:57.548Z",
+    "Country": "Canada"
+  },
+  {
+    "_id": 470,
+    "Name": "Retro Pixel",
+    "Foundingdate": "1984-11-08T07:12:53.030Z",
+    "Country": "Spain"
+  },
+  {
+    "_id": 471,
+    "Name": "Fantasy Pixel",
+    "Foundingdate": "1957-08-23T17:41:19.642Z",
+    "Country": "Germany"
+  },
+  {
+    "_id": 472,
+    "Name": "Action Interactive",
+    "Foundingdate": "1964-05-24T19:09:11.033Z",
+    "Country": "Brazil"
+  },
+  {
+    "_id": 473,
+    "Name": "Neon Studio",
+    "Foundingdate": "1953-04-05T22:25:55.777Z",
+    "Country": "France"
+  },
+  {
+    "_id": 474,
+    "Name": "Future Arts",
+    "Foundingdate": "1975-06-18T19:01:20.769Z",
+    "Country": "Brazil"
+  },
+  {
+    "_id": 475,
+    "Name": "Legendary Works",
+    "Foundingdate": "1969-10-27T22:52:32.739Z",
+    "Country": "UK"
+  },
+  {
+    "_id": 476,
+    "Name": "Future Interactive",
+    "Foundingdate": "2019-09-04T18:26:16.025Z",
+    "Country": "Sweden"
+  },
+  {
+    "_id": 477,
+    "Name": "Fantasy Tech",
+    "Foundingdate": "1992-06-29T20:08:35.137Z",
+    "Country": "Poland"
+  },
+  {
+    "_id": 478,
+    "Name": "Epic Pixel",
+    "Foundingdate": "1992-02-28T02:48:45.534Z",
+    "Country": "Sweden"
+  },
+  {
+    "_id": 479,
+    "Name": "Cyber Works",
+    "Foundingdate": "1977-06-29T07:49:08.156Z",
+    "Country": "Germany"
+  },
+  {
+    "_id": 480,
+    "Name": "Omega Developments",
+    "Foundingdate": "1970-02-04T18:48:39.635Z",
+    "Country": "Poland"
+  },
+  {
+    "_id": 481,
+    "Name": "Golden Developments",
+    "Foundingdate": "1983-01-04T21:42:09.418Z",
+    "Country": "USA"
+  },
+  {
+    "_id": 482,
+    "Name": "Blue Tech",
+    "Foundingdate": "1996-08-10T05:03:04.956Z",
+    "Country": "Japan"
+  },
+  {
+    "_id": 483,
+    "Name": "Ancient Pixel",
+    "Foundingdate": "2020-12-30T13:29:39.321Z",
+    "Country": "Italy"
+  },
+  {
+    "_id": 484,
+    "Name": "Epic Tech",
+    "Foundingdate": "1984-08-12T06:16:09.803Z",
+    "Country": "China"
+  },
+  {
+    "_id": 485,
+    "Name": "Retro Tech",
+    "Foundingdate": "2001-02-02T04:40:26.243Z",
+    "Country": "Brazil"
+  },
+  {
+    "_id": 486,
+    "Name": "Omega Interactive",
+    "Foundingdate": "2002-06-08T12:29:24.122Z",
+    "Country": "Canada"
+  },
+  {
+    "_id": 487,
+    "Name": "Cyber Game",
+    "Foundingdate": "1961-08-14T23:15:53.328Z",
+    "Country": "Canada"
+  },
+  {
+    "_id": 488,
+    "Name": "Alpha Arts",
+    "Foundingdate": "1979-11-06T04:26:59.579Z",
+    "Country": "Germany"
+  },
+  {
+    "_id": 489,
+    "Name": "Golden Developments",
+    "Foundingdate": "1960-10-22T23:28:53.582Z",
+    "Country": "Germany"
+  },
+  {
+    "_id": 490,
+    "Name": "Silver Digital",
+    "Foundingdate": "1979-08-22T06:34:50.794Z",
+    "Country": "Netherlands"
+  },
+  {
+    "_id": 491,
+    "Name": "Neon Developments",
+    "Foundingdate": "1969-09-23T15:10:55.573Z",
+    "Country": "Sweden"
+  },
+  {
+    "_id": 492,
+    "Name": "Ancient Game",
+    "Foundingdate": "1984-11-20T23:27:24.611Z",
+    "Country": "Sweden"
+  },
+  {
+    "_id": 493,
+    "Name": "Modern Soft",
+    "Foundingdate": "1963-12-15T06:25:48.968Z",
+    "Country": "Sweden"
+  },
+  {
+    "_id": 494,
+    "Name": "Alpha Soft",
+    "Foundingdate": "2019-12-01T16:26:05.369Z",
+    "Country": "Australia"
+  },
+  {
+    "_id": 495,
+    "Name": "Next Productions",
+    "Foundingdate": "1950-03-03T06:00:53.407Z",
+    "Country": "Spain"
+  },
+  {
+    "_id": 496,
+    "Name": "Adventure Productions",
+    "Foundingdate": "1989-07-08T14:09:50.342Z",
+    "Country": "France"
+  },
+  {
+    "_id": 497,
+    "Name": "Action Pixel",
+    "Foundingdate": "2018-04-28T18:41:12.760Z",
+    "Country": "Brazil"
+  },
+  {
+    "_id": 498,
+    "Name": "Fantasy Arts",
+    "Foundingdate": "2003-01-29T18:20:30.253Z",
+    "Country": "South Korea"
+  },
+  {
+    "_id": 499,
+    "Name": "Ancient Studio",
+    "Foundingdate": "1995-03-22T16:49:08.071Z",
+    "Country": "Spain"
+  },
+  {
+    "_id": 500,
+    "Name": "Neon Creative",
+    "Foundingdate": "2017-12-12T02:47:19.914Z",
+    "Country": "Germany"
+  },
+  {
+    "_id": 501,
+    "Name": "Beta Productions",
+    "Foundingdate": "2011-02-07T07:27:36.132Z",
+    "Country": "France"
+  },
+  {
+    "_id": 502,
+    "Name": "Adventure Network",
+    "Foundingdate": "1955-11-16T14:02:21.266Z",
+    "Country": "Sweden"
+  },
+  {
+    "_id": 503,
+    "Name": "Omega Pixel",
+    "Foundingdate": "2008-11-02T08:12:41.061Z",
+    "Country": "USA"
+  },
+  {
+    "_id": 504,
+    "Name": "Retro Creative",
+    "Foundingdate": "1976-03-11T19:53:31.402Z",
+    "Country": "Japan"
+  },
+  {
+    "_id": 505,
+    "Name": "Silver Studio",
+    "Foundingdate": "2018-05-30T08:50:01.129Z",
+    "Country": "Germany"
+  },
+  {
+    "_id": 506,
+    "Name": "Modern Pixel",
+    "Foundingdate": "2012-01-18T07:10:21.320Z",
+    "Country": "South Korea"
+  },
+  {
+    "_id": 507,
+    "Name": "Legendary Developments",
+    "Foundingdate": "1978-03-08T17:21:50.106Z",
+    "Country": "UK"
+  },
+  {
+    "_id": 508,
+    "Name": "Blue Pixel",
+    "Foundingdate": "1962-05-15T03:25:40.265Z",
+    "Country": "South Korea"
+  },
+  {
+    "_id": 509,
+    "Name": "Beta Network",
+    "Foundingdate": "1955-06-22T23:13:22.806Z",
+    "Country": "Netherlands"
+  },
+  {
+    "_id": 510,
+    "Name": "Epic Tech",
+    "Foundingdate": "2003-06-23T14:01:31.971Z",
+    "Country": "China"
+  },
+  {
+    "_id": 511,
+    "Name": "Silver Interactive",
+    "Foundingdate": "1952-10-30T04:22:25.161Z",
+    "Country": "Germany"
+  },
+  {
+    "_id": 512,
+    "Name": "Silver Digital",
+    "Foundingdate": "1950-11-29T16:14:48.131Z",
+    "Country": "South Korea"
+  },
+  {
+    "_id": 513,
+    "Name": "Adventure Productions",
+    "Foundingdate": "1984-05-30T15:38:51.691Z",
+    "Country": "UK"
+  },
+  {
+    "_id": 514,
+    "Name": "Green Entertainment",
+    "Foundingdate": "1990-06-28T07:20:37.842Z",
+    "Country": "Canada"
+  },
+  {
+    "_id": 515,
+    "Name": "Ancient Digital",
+    "Foundingdate": "2009-11-28T09:41:42.467Z",
+    "Country": "Brazil"
+  },
+  {
+    "_id": 516,
+    "Name": "Blue Pixel",
+    "Foundingdate": "1987-07-10T23:13:12.875Z",
+    "Country": "Poland"
+  },
+  {
+    "_id": 517,
+    "Name": "Fantasy Digital",
+    "Foundingdate": "1964-12-30T09:44:13.719Z",
+    "Country": "Japan"
+  },
+  {
+    "_id": 518,
+    "Name": "Cyber Network",
+    "Foundingdate": "1973-10-17T05:24:06.275Z",
+    "Country": "Brazil"
+  },
+  {
+    "_id": 519,
+    "Name": "Modern Studio",
+    "Foundingdate": "1969-06-10T00:00:48.034Z",
+    "Country": "Italy"
+  },
+  {
+    "_id": 520,
+    "Name": "Ancient Soft",
+    "Foundingdate": "1995-01-15T00:56:50.298Z",
+    "Country": "Brazil"
+  },
+  {
+    "_id": 521,
+    "Name": "Silver Digital",
+    "Foundingdate": "2020-01-17T17:32:20.578Z",
+    "Country": "Brazil"
+  },
+  {
+    "_id": 522,
+    "Name": "Blue Games",
+    "Foundingdate": "1988-04-28T04:36:54.665Z",
+    "Country": "UK"
+  },
+  {
+    "_id": 523,
+    "Name": "Omega Soft",
+    "Foundingdate": "1983-07-30T18:56:03.112Z",
+    "Country": "South Korea"
+  },
+  {
+    "_id": 524,
+    "Name": "Ancient Soft",
+    "Foundingdate": "1957-12-25T03:15:11.782Z",
+    "Country": "USA"
+  },
+  {
+    "_id": 525,
+    "Name": "Retro Interactive",
+    "Foundingdate": "1974-03-28T10:31:30.223Z",
+    "Country": "Poland"
+  },
+  {
+    "_id": 526,
+    "Name": "Epic Interactive",
+    "Foundingdate": "1973-03-26T11:47:51.102Z",
+    "Country": "Spain"
+  },
+  {
+    "_id": 527,
+    "Name": "Epic Creative",
+    "Foundingdate": "2016-03-23T13:43:44.598Z",
+    "Country": "Netherlands"
+  },
+  {
+    "_id": 528,
+    "Name": "Neon Interactive",
+    "Foundingdate": "1974-06-21T10:43:05.484Z",
+    "Country": "Germany"
+  },
+  {
+    "_id": 529,
+    "Name": "Modern Pixel",
+    "Foundingdate": "1967-12-21T09:21:21.465Z",
+    "Country": "Sweden"
+  },
+  {
+    "_id": 530,
+    "Name": "Next Pixel",
+    "Foundingdate": "1979-04-23T17:55:07.071Z",
+    "Country": "USA"
+  },
+  {
+    "_id": 531,
+    "Name": "Legendary Soft",
+    "Foundingdate": "1961-04-15T12:16:45.499Z",
+    "Country": "Canada"
+  },
+  {
+    "_id": 532,
+    "Name": "Red Works",
+    "Foundingdate": "1961-09-19T11:18:57.595Z",
+    "Country": "UK"
+  },
+  {
+    "_id": 533,
+    "Name": "Cyber Network",
+    "Foundingdate": "1990-05-04T17:28:46.588Z",
+    "Country": "China"
+  },
+  {
+    "_id": 534,
+    "Name": "Red Network",
+    "Foundingdate": "1952-06-01T19:43:23.198Z",
+    "Country": "South Korea"
+  },
+  {
+    "_id": 535,
+    "Name": "Beta Arts",
+    "Foundingdate": "1951-05-19T02:03:56.900Z",
+    "Country": "South Korea"
+  },
+  {
+    "_id": 536,
+    "Name": "Blue Works",
+    "Foundingdate": "2013-01-20T17:49:02.265Z",
+    "Country": "Spain"
+  },
+  {
+    "_id": 537,
+    "Name": "Alpha Creative",
+    "Foundingdate": "1999-06-20T15:14:31.647Z",
+    "Country": "France"
+  },
+  {
+    "_id": 538,
+    "Name": "Retro Interactive",
+    "Foundingdate": "2000-07-29T23:15:12.541Z",
+    "Country": "Netherlands"
+  },
+  {
+    "_id": 539,
+    "Name": "Alpha Network",
+    "Foundingdate": "1965-08-03T08:21:20.736Z",
+    "Country": "Spain"
+  },
+  {
+    "_id": 540,
+    "Name": "Fantasy Digital",
+    "Foundingdate": "1964-03-04T07:30:29.893Z",
+    "Country": "Brazil"
+  },
+  {
+    "_id": 541,
+    "Name": "Epic Arts",
+    "Foundingdate": "1963-03-06T15:49:14.432Z",
+    "Country": "Canada"
+  },
+  {
+    "_id": 542,
+    "Name": "Golden Interactive",
+    "Foundingdate": "2004-01-03T16:31:00.201Z",
+    "Country": "Brazil"
+  },
+  {
+    "_id": 543,
+    "Name": "Modern Arts",
+    "Foundingdate": "1964-04-09T03:52:15.272Z",
+    "Country": "Canada"
+  },
+  {
+    "_id": 544,
+    "Name": "Fantasy Works",
+    "Foundingdate": "1992-07-20T18:23:19.360Z",
+    "Country": "Sweden"
+  },
+  {
+    "_id": 545,
+    "Name": "Action Pixel",
+    "Foundingdate": "1955-07-24T21:53:48.992Z",
+    "Country": "South Korea"
+  },
+  {
+    "_id": 546,
+    "Name": "Modern Creative",
+    "Foundingdate": "1990-05-20T01:36:13.238Z",
+    "Country": "Poland"
+  },
+  {
+    "_id": 547,
+    "Name": "Blue Digital",
+    "Foundingdate": "1995-11-12T10:38:34.761Z",
+    "Country": "Poland"
+  },
+  {
+    "_id": 548,
+    "Name": "Alpha Game",
+    "Foundingdate": "1961-09-06T18:35:08.445Z",
+    "Country": "Sweden"
+  },
+  {
+    "_id": 549,
+    "Name": "Future Creative",
+    "Foundingdate": "1989-02-17T01:07:41.614Z",
+    "Country": "Japan"
+  },
+  {
+    "_id": 550,
+    "Name": "Blue Network",
+    "Foundingdate": "1950-07-12T16:25:33.737Z",
+    "Country": "Canada"
+  },
+  {
+    "_id": 551,
+    "Name": "Neon Games",
+    "Foundingdate": "1966-06-03T22:06:03.171Z",
+    "Country": "Italy"
+  },
+  {
+    "_id": 552,
+    "Name": "Next Network",
+    "Foundingdate": "1963-07-28T07:30:00.864Z",
+    "Country": "Canada"
+  },
+  {
+    "_id": 553,
+    "Name": "Legendary Developments",
+    "Foundingdate": "1965-12-23T07:01:07.328Z",
+    "Country": "Italy"
+  },
+  {
+    "_id": 554,
+    "Name": "Golden Productions",
+    "Foundingdate": "1977-03-22T08:06:41.122Z",
+    "Country": "Germany"
+  },
+  {
+    "_id": 555,
+    "Name": "Action Digital",
+    "Foundingdate": "1951-11-05T17:58:59.900Z",
+    "Country": "France"
+  },
+  {
+    "_id": 556,
+    "Name": "Silver Developments",
+    "Foundingdate": "1950-05-28T23:04:09.698Z",
+    "Country": "Japan"
+  },
+  {
+    "_id": 557,
+    "Name": "Future Entertainment",
+    "Foundingdate": "1961-04-08T05:53:30.603Z",
+    "Country": "Brazil"
+  },
+  {
+    "_id": 558,
+    "Name": "Green Entertainment",
+    "Foundingdate": "1984-12-31T22:03:52.709Z",
+    "Country": "Poland"
+  },
+  {
+    "_id": 559,
+    "Name": "Adventure Network",
+    "Foundingdate": "2015-09-17T06:34:10.813Z",
+    "Country": "Italy"
+  },
+  {
+    "_id": 560,
+    "Name": "Blue Soft",
+    "Foundingdate": "1952-10-26T09:11:40.678Z",
+    "Country": "UK"
+  },
+  {
+    "_id": 561,
+    "Name": "Next Creative",
+    "Foundingdate": "1973-08-21T20:26:41.973Z",
+    "Country": "UK"
+  },
+  {
+    "_id": 562,
+    "Name": "Modern Productions",
+    "Foundingdate": "2001-12-31T14:26:22.110Z",
+    "Country": "Netherlands"
+  },
+  {
+    "_id": 563,
+    "Name": "Next Digital",
+    "Foundingdate": "2019-10-15T22:39:12.007Z",
+    "Country": "Australia"
+  },
+  {
+    "_id": 564,
+    "Name": "Cyber Digital",
+    "Foundingdate": "1979-01-02T06:17:18.125Z",
+    "Country": "Canada"
+  },
+  {
+    "_id": 565,
+    "Name": "Omega Arts",
+    "Foundingdate": "1958-09-22T06:53:47.784Z",
+    "Country": "South Korea"
+  },
+  {
+    "_id": 566,
+    "Name": "Neon Creative",
+    "Foundingdate": "1985-04-01T00:54:52.183Z",
+    "Country": "Japan"
+  },
+  {
+    "_id": 567,
+    "Name": "Fantasy Works",
+    "Foundingdate": "1972-01-24T23:14:53.128Z",
+    "Country": "UK"
+  },
+  {
+    "_id": 568,
+    "Name": "Future Interactive",
+    "Foundingdate": "1995-12-13T16:09:13.970Z",
+    "Country": "Germany"
+  },
+  {
+    "_id": 569,
+    "Name": "Modern Creative",
+    "Foundingdate": "1958-12-04T07:01:56.118Z",
+    "Country": "Italy"
+  },
+  {
+    "_id": 570,
+    "Name": "Legendary Creative",
+    "Foundingdate": "2001-01-09T08:58:16.757Z",
+    "Country": "UK"
+  },
+  {
+    "_id": 571,
+    "Name": "Future Productions",
+    "Foundingdate": "2017-10-15T14:07:22.980Z",
+    "Country": "China"
+  },
+  {
+    "_id": 572,
+    "Name": "Blue Works",
+    "Foundingdate": "1964-10-23T14:12:56.952Z",
+    "Country": "UK"
+  },
+  {
+    "_id": 573,
+    "Name": "Alpha Digital",
+    "Foundingdate": "1971-05-29T03:52:25.358Z",
+    "Country": "Germany"
+  },
+  {
+    "_id": 574,
+    "Name": "Adventure Digital",
+    "Foundingdate": "2016-05-23T21:23:28.122Z",
+    "Country": "Spain"
+  },
+  {
+    "_id": 575,
+    "Name": "Modern Studio",
+    "Foundingdate": "2001-05-12T20:38:26.943Z",
+    "Country": "Spain"
+  },
+  {
+    "_id": 576,
+    "Name": "Green Entertainment",
+    "Foundingdate": "1976-12-17T05:46:16.823Z",
+    "Country": "Australia"
+  },
+  {
+    "_id": 577,
+    "Name": "Omega Games",
+    "Foundingdate": "1987-05-25T11:09:53.903Z",
+    "Country": "Italy"
+  },
+  {
+    "_id": 578,
+    "Name": "Cyber Entertainment",
+    "Foundingdate": "2000-12-22T16:17:15.393Z",
+    "Country": "UK"
+  },
+  {
+    "_id": 579,
+    "Name": "Silver Soft",
+    "Foundingdate": "1977-02-09T10:40:15.531Z",
+    "Country": "Brazil"
+  },
+  {
+    "_id": 580,
+    "Name": "Retro Network",
+    "Foundingdate": "2019-10-22T21:20:01.836Z",
+    "Country": "UK"
+  },
+  {
+    "_id": 581,
+    "Name": "Neon Entertainment",
+    "Foundingdate": "2016-10-13T12:30:24.565Z",
+    "Country": "Canada"
+  },
+  {
+    "_id": 582,
+    "Name": "Blue Tech",
+    "Foundingdate": "1985-11-25T14:28:25.752Z",
+    "Country": "USA"
+  },
+  {
+    "_id": 583,
+    "Name": "Action Network",
+    "Foundingdate": "1980-04-04T21:34:52.788Z",
+    "Country": "USA"
+  },
+  {
+    "_id": 584,
+    "Name": "Retro Games",
+    "Foundingdate": "2019-11-22T13:58:11.441Z",
+    "Country": "South Korea"
+  },
+  {
+    "_id": 585,
+    "Name": "Red Works",
+    "Foundingdate": "2016-04-22T08:28:01.290Z",
+    "Country": "Germany"
+  },
+  {
+    "_id": 586,
+    "Name": "Red Tech",
+    "Foundingdate": "1952-05-06T02:28:25.485Z",
+    "Country": "UK"
+  },
+  {
+    "_id": 587,
+    "Name": "Legendary Game",
+    "Foundingdate": "2003-07-27T11:19:16.695Z",
+    "Country": "South Korea"
+  },
+  {
+    "_id": 588,
+    "Name": "Beta Works",
+    "Foundingdate": "1987-05-08T20:56:51.006Z",
+    "Country": "Canada"
+  },
+  {
+    "_id": 589,
+    "Name": "Future Arts",
+    "Foundingdate": "1986-11-07T02:19:56.657Z",
+    "Country": "Poland"
+  },
+  {
+    "_id": 590,
+    "Name": "Adventure Arts",
+    "Foundingdate": "1989-02-19T03:46:04.061Z",
+    "Country": "Japan"
+  },
+  {
+    "_id": 591,
+    "Name": "Adventure Digital",
+    "Foundingdate": "1988-01-19T01:59:08.875Z",
+    "Country": "Canada"
+  },
+  {
+    "_id": 592,
+    "Name": "Ancient Soft",
+    "Foundingdate": "1972-04-30T19:56:19.115Z",
+    "Country": "France"
+  },
+  {
+    "_id": 593,
+    "Name": "Retro Pixel",
+    "Foundingdate": "1987-01-20T05:21:44.378Z",
+    "Country": "USA"
+  },
+  {
+    "_id": 594,
+    "Name": "Legendary Game",
+    "Foundingdate": "2000-02-07T21:27:24.693Z",
+    "Country": "Spain"
+  },
+  {
+    "_id": 595,
+    "Name": "Golden Digital",
+    "Foundingdate": "2015-10-30T21:16:51.505Z",
+    "Country": "Brazil"
+  },
+  {
+    "_id": 596,
+    "Name": "Neon Tech",
+    "Foundingdate": "1973-09-01T22:52:16.996Z",
+    "Country": "Brazil"
+  },
+  {
+    "_id": 597,
+    "Name": "Golden Creative",
+    "Foundingdate": "1969-07-01T04:31:32.743Z",
+    "Country": "Japan"
+  },
+  {
+    "_id": 598,
+    "Name": "Omega Network",
+    "Foundingdate": "1984-04-07T00:37:30.530Z",
+    "Country": "Australia"
+  },
+  {
+    "_id": 599,
+    "Name": "Next Works",
+    "Foundingdate": "1999-03-31T14:42:23.370Z",
+    "Country": "Netherlands"
+  },
+  {
+    "_id": 600,
+    "Name": "Golden Works",
+    "Foundingdate": "2002-03-06T14:47:45.804Z",
+    "Country": "Italy"
+  },
+  {
+    "_id": 601,
+    "Name": "Golden Pixel",
+    "Foundingdate": "2015-12-20T21:22:02.015Z",
+    "Country": "France"
+  },
+  {
+    "_id": 602,
+    "Name": "Silver Works",
+    "Foundingdate": "1994-02-20T04:17:38.884Z",
+    "Country": "Poland"
+  },
+  {
+    "_id": 603,
+    "Name": "Future Works",
+    "Foundingdate": "2004-12-19T21:07:28.791Z",
+    "Country": "Brazil"
+  },
+  {
+    "_id": 604,
+    "Name": "Blue Games",
+    "Foundingdate": "1983-05-28T19:01:07.129Z",
+    "Country": "South Korea"
+  },
+  {
+    "_id": 605,
+    "Name": "Neon Network",
+    "Foundingdate": "1989-07-13T15:01:22.901Z",
+    "Country": "USA"
+  },
+  {
+    "_id": 606,
+    "Name": "Modern Network",
+    "Foundingdate": "1957-04-10T08:32:43.553Z",
+    "Country": "France"
+  },
+  {
+    "_id": 607,
+    "Name": "Omega Creative",
+    "Foundingdate": "2010-03-05T18:28:51.237Z",
+    "Country": "Spain"
+  },
+  {
+    "_id": 608,
+    "Name": "Neon Studio",
+    "Foundingdate": "1961-09-12T04:55:14.188Z",
+    "Country": "South Korea"
+  },
+  {
+    "_id": 609,
+    "Name": "Legendary Network",
+    "Foundingdate": "1984-07-01T08:08:39.411Z",
+    "Country": "Germany"
+  },
+  {
+    "_id": 610,
+    "Name": "Legendary Works",
+    "Foundingdate": "2012-04-06T01:22:03.888Z",
+    "Country": "Japan"
+  },
+  {
+    "_id": 611,
+    "Name": "Cyber Arts",
+    "Foundingdate": "1994-11-08T15:26:08.994Z",
+    "Country": "USA"
+  },
+  {
+    "_id": 612,
+    "Name": "Beta Soft",
+    "Foundingdate": "2002-06-21T00:35:42.656Z",
+    "Country": "South Korea"
+  },
+  {
+    "_id": 613,
+    "Name": "Fantasy Digital",
+    "Foundingdate": "1997-05-24T14:37:50.434Z",
+    "Country": "Poland"
+  },
+  {
+    "_id": 614,
+    "Name": "Future Arts",
+    "Foundingdate": "2019-07-02T02:48:25.099Z",
+    "Country": "Canada"
+  },
+  {
+    "_id": 615,
+    "Name": "Omega Tech",
+    "Foundingdate": "1950-04-22T09:46:19.527Z",
+    "Country": "Japan"
+  },
+  {
+    "_id": 616,
+    "Name": "Red Interactive",
+    "Foundingdate": "2017-03-09T08:35:34.657Z",
+    "Country": "Italy"
+  },
+  {
+    "_id": 617,
+    "Name": "Green Pixel",
+    "Foundingdate": "1964-07-25T12:56:23.470Z",
+    "Country": "Netherlands"
+  },
+  {
+    "_id": 618,
+    "Name": "Cyber Arts",
+    "Foundingdate": "1992-01-27T09:45:35.647Z",
+    "Country": "Spain"
+  },
+  {
+    "_id": 619,
+    "Name": "Silver Soft",
+    "Foundingdate": "1999-04-15T17:31:36.600Z",
+    "Country": "Brazil"
+  },
+  {
+    "_id": 620,
+    "Name": "Beta Tech",
+    "Foundingdate": "2017-07-27T02:44:32.479Z",
+    "Country": "France"
+  },
+  {
+    "_id": 621,
+    "Name": "Ancient Works",
+    "Foundingdate": "2001-01-30T17:02:44.810Z",
+    "Country": "UK"
+  },
+  {
+    "_id": 622,
+    "Name": "Beta Tech",
+    "Foundingdate": "1993-03-10T01:19:02.539Z",
+    "Country": "USA"
+  },
+  {
+    "_id": 623,
+    "Name": "Legendary Works",
+    "Foundingdate": "1999-06-07T06:34:09.446Z",
+    "Country": "Italy"
+  },
+  {
+    "_id": 624,
+    "Name": "Golden Creative",
+    "Foundingdate": "1980-05-29T06:14:36.004Z",
+    "Country": "South Korea"
+  },
+  {
+    "_id": 625,
+    "Name": "Retro Studio",
+    "Foundingdate": "1953-07-04T09:54:50.329Z",
+    "Country": "Canada"
+  },
+  {
+    "_id": 626,
+    "Name": "Beta Game",
+    "Foundingdate": "1955-11-11T04:36:17.098Z",
+    "Country": "Brazil"
+  },
+  {
+    "_id": 627,
+    "Name": "Next Digital",
+    "Foundingdate": "1959-02-17T07:20:45.297Z",
+    "Country": "Sweden"
+  },
+  {
+    "_id": 628,
+    "Name": "Cyber Tech",
+    "Foundingdate": "1981-09-02T10:59:02.249Z",
+    "Country": "South Korea"
+  },
+  {
+    "_id": 629,
+    "Name": "Golden Developments",
+    "Foundingdate": "1980-03-04T08:22:06.025Z",
+    "Country": "USA"
+  },
+  {
+    "_id": 630,
+    "Name": "Golden Interactive",
+    "Foundingdate": "1970-12-27T04:44:39.208Z",
+    "Country": "Australia"
+  },
+  {
+    "_id": 631,
+    "Name": "Beta Productions",
+    "Foundingdate": "1966-08-18T14:45:19.890Z",
+    "Country": "Germany"
+  },
+  {
+    "_id": 632,
+    "Name": "Green Interactive",
+    "Foundingdate": "1982-12-11T13:02:20.072Z",
+    "Country": "France"
+  },
+  {
+    "_id": 633,
+    "Name": "Modern Studio",
+    "Foundingdate": "2019-06-23T10:54:10.073Z",
+    "Country": "Germany"
+  },
+  {
+    "_id": 634,
+    "Name": "Fantasy Developments",
+    "Foundingdate": "1970-07-29T19:54:02.776Z",
+    "Country": "Netherlands"
+  },
+  {
+    "_id": 635,
+    "Name": "Omega Games",
+    "Foundingdate": "2011-02-26T19:53:06.585Z",
+    "Country": "Netherlands"
+  },
+  {
+    "_id": 636,
+    "Name": "Adventure Network",
+    "Foundingdate": "1968-01-06T02:03:35.577Z",
+    "Country": "Poland"
+  },
+  {
+    "_id": 637,
+    "Name": "Modern Digital",
+    "Foundingdate": "1965-01-23T06:51:49.742Z",
+    "Country": "Netherlands"
+  },
+  {
+    "_id": 638,
+    "Name": "Omega Creative",
+    "Foundingdate": "1977-07-16T03:09:06.631Z",
+    "Country": "Canada"
+  },
+  {
+    "_id": 639,
+    "Name": "Legendary Network",
+    "Foundingdate": "2019-09-27T08:15:29.037Z",
+    "Country": "Italy"
+  },
+  {
+    "_id": 640,
+    "Name": "Cyber Works",
+    "Foundingdate": "1992-05-11T18:42:42.500Z",
+    "Country": "Australia"
+  },
+  {
+    "_id": 641,
+    "Name": "Future Interactive",
+    "Foundingdate": "1992-06-09T01:38:55.097Z",
+    "Country": "France"
+  },
+  {
+    "_id": 642,
+    "Name": "Blue Soft",
+    "Foundingdate": "2002-02-12T08:17:51.528Z",
+    "Country": "China"
+  },
+  {
+    "_id": 643,
+    "Name": "Next Works",
+    "Foundingdate": "2002-07-24T20:28:56.202Z",
+    "Country": "Germany"
+  },
+  {
+    "_id": 644,
+    "Name": "Red Network",
+    "Foundingdate": "2015-02-26T07:01:13.930Z",
+    "Country": "Italy"
+  },
+  {
+    "_id": 645,
+    "Name": "Ancient Game",
+    "Foundingdate": "1990-11-03T12:01:41.530Z",
+    "Country": "UK"
+  },
+  {
+    "_id": 646,
+    "Name": "Adventure Games",
+    "Foundingdate": "1952-06-08T07:56:22.219Z",
+    "Country": "Australia"
+  },
+  {
+    "_id": 647,
+    "Name": "Ancient Interactive",
+    "Foundingdate": "1961-02-21T09:09:09.204Z",
+    "Country": "South Korea"
+  },
+  {
+    "_id": 648,
+    "Name": "Omega Game",
+    "Foundingdate": "1992-12-08T22:25:43.557Z",
+    "Country": "Germany"
+  },
+  {
+    "_id": 649,
+    "Name": "Beta Arts",
+    "Foundingdate": "1975-03-30T06:56:13.504Z",
+    "Country": "Spain"
+  },
+  {
+    "_id": 650,
+    "Name": "Alpha Entertainment",
+    "Foundingdate": "1953-08-02T03:58:47.096Z",
+    "Country": "Australia"
+  },
+  {
+    "_id": 651,
+    "Name": "Adventure Developments",
+    "Foundingdate": "1952-03-27T10:44:34.894Z",
+    "Country": "Japan"
+  },
+  {
+    "_id": 652,
+    "Name": "Cyber Arts",
+    "Foundingdate": "1990-12-04T03:58:59.548Z",
+    "Country": "China"
+  },
+  {
+    "_id": 653,
+    "Name": "Ancient Soft",
+    "Foundingdate": "2018-07-23T13:36:20.397Z",
+    "Country": "Poland"
+  },
+  {
+    "_id": 654,
+    "Name": "Green Arts",
+    "Foundingdate": "2015-01-09T03:42:03.955Z",
+    "Country": "Japan"
+  },
+  {
+    "_id": 655,
+    "Name": "Beta Studio",
+    "Foundingdate": "2017-12-29T21:25:59.392Z",
+    "Country": "Netherlands"
+  },
+  {
+    "_id": 656,
+    "Name": "Red Studio",
+    "Foundingdate": "1964-02-06T15:54:14.544Z",
+    "Country": "Poland"
+  },
+  {
+    "_id": 657,
+    "Name": "Green Entertainment",
+    "Foundingdate": "2007-02-02T07:39:58.439Z",
+    "Country": "UK"
+  },
+  {
+    "_id": 658,
+    "Name": "Fantasy Works",
+    "Foundingdate": "1956-11-03T04:07:21.367Z",
+    "Country": "USA"
+  },
+  {
+    "_id": 659,
+    "Name": "Modern Studio",
+    "Foundingdate": "1997-04-12T10:14:54.007Z",
+    "Country": "Sweden"
+  },
+  {
+    "_id": 660,
+    "Name": "Red Soft",
+    "Foundingdate": "1964-10-23T10:39:25.875Z",
+    "Country": "Australia"
+  },
+  {
+    "_id": 661,
+    "Name": "Beta Creative",
+    "Foundingdate": "1950-10-13T09:11:17.066Z",
+    "Country": "Poland"
+  },
+  {
+    "_id": 662,
+    "Name": "Silver Arts",
+    "Foundingdate": "1999-09-23T03:55:32.235Z",
+    "Country": "Brazil"
+  },
+  {
+    "_id": 663,
+    "Name": "Modern Digital",
+    "Foundingdate": "1957-02-20T08:56:44.575Z",
+    "Country": "Canada"
+  },
+  {
+    "_id": 664,
+    "Name": "Retro Tech",
+    "Foundingdate": "1959-09-21T05:02:16.439Z",
+    "Country": "Brazil"
+  },
+  {
+    "_id": 665,
+    "Name": "Retro Works",
+    "Foundingdate": "2006-01-04T01:19:53.794Z",
+    "Country": "Brazil"
+  },
+  {
+    "_id": 666,
+    "Name": "Red Digital",
+    "Foundingdate": "1964-05-25T07:55:32.274Z",
+    "Country": "Japan"
+  },
+  {
+    "_id": 667,
+    "Name": "Cyber Developments",
+    "Foundingdate": "1990-10-30T05:34:12.111Z",
+    "Country": "Poland"
+  },
+  {
+    "_id": 668,
+    "Name": "Silver Developments",
+    "Foundingdate": "1958-05-11T16:08:36.079Z",
+    "Country": "Australia"
+  },
+  {
+    "_id": 669,
+    "Name": "Silver Soft",
+    "Foundingdate": "1998-09-05T16:27:18.547Z",
+    "Country": "Netherlands"
+  },
+  {
+    "_id": 670,
+    "Name": "Legendary Digital",
+    "Foundingdate": "1971-08-21T05:15:33.185Z",
+    "Country": "France"
+  },
+  {
+    "_id": 671,
+    "Name": "Red Digital",
+    "Foundingdate": "1964-07-28T11:37:32.160Z",
+    "Country": "France"
+  },
+  {
+    "_id": 672,
+    "Name": "Epic Digital",
+    "Foundingdate": "1975-03-30T04:51:01.438Z",
+    "Country": "South Korea"
+  },
+  {
+    "_id": 673,
+    "Name": "Beta Productions",
+    "Foundingdate": "1974-04-15T00:19:05.743Z",
+    "Country": "Spain"
+  },
+  {
+    "_id": 674,
+    "Name": "Future Productions",
+    "Foundingdate": "2000-08-31T09:36:58.661Z",
+    "Country": "France"
+  },
+  {
+    "_id": 675,
+    "Name": "Future Interactive",
+    "Foundingdate": "1984-11-16T20:37:23.516Z",
+    "Country": "Australia"
+  },
+  {
+    "_id": 676,
+    "Name": "Omega Arts",
+    "Foundingdate": "2015-04-07T17:53:34.846Z",
+    "Country": "France"
+  },
+  {
+    "_id": 677,
+    "Name": "Red Game",
+    "Foundingdate": "2008-01-22T23:10:14.897Z",
+    "Country": "Poland"
+  },
+  {
+    "_id": 678,
+    "Name": "Cyber Games",
+    "Foundingdate": "1950-04-16T12:39:06.205Z",
+    "Country": "France"
+  },
+  {
+    "_id": 679,
+    "Name": "Modern Interactive",
+    "Foundingdate": "1952-07-06T15:19:43.049Z",
+    "Country": "Japan"
+  },
+  {
+    "_id": 680,
+    "Name": "Action Interactive",
+    "Foundingdate": "1993-03-23T22:41:06.438Z",
+    "Country": "Spain"
+  },
+  {
+    "_id": 681,
+    "Name": "Legendary Arts",
+    "Foundingdate": "2011-11-10T07:46:17.982Z",
+    "Country": "Italy"
+  },
+  {
+    "_id": 682,
+    "Name": "Fantasy Productions",
+    "Foundingdate": "1995-02-03T18:04:54.538Z",
+    "Country": "Australia"
+  },
+  {
+    "_id": 683,
+    "Name": "Green Games",
+    "Foundingdate": "1982-01-08T18:11:33.559Z",
+    "Country": "Italy"
+  },
+  {
+    "_id": 684,
+    "Name": "Omega Network",
+    "Foundingdate": "1987-06-26T06:19:30.671Z",
+    "Country": "USA"
+  },
+  {
+    "_id": 685,
+    "Name": "Red Digital",
+    "Foundingdate": "1967-09-30T05:42:05.533Z",
+    "Country": "France"
+  },
+  {
+    "_id": 686,
+    "Name": "Epic Interactive",
+    "Foundingdate": "1987-09-10T13:54:32.943Z",
+    "Country": "UK"
+  },
+  {
+    "_id": 687,
+    "Name": "Green Network",
+    "Foundingdate": "1986-07-15T04:25:06.734Z",
+    "Country": "Poland"
+  },
+  {
+    "_id": 688,
+    "Name": "Fantasy Soft",
+    "Foundingdate": "1983-12-28T09:13:08.558Z",
+    "Country": "Australia"
+  },
+  {
+    "_id": 689,
+    "Name": "Green Productions",
+    "Foundingdate": "2004-08-14T13:23:27.491Z",
+    "Country": "Australia"
+  },
+  {
+    "_id": 690,
+    "Name": "Neon Creative",
+    "Foundingdate": "1993-06-03T17:16:06.157Z",
+    "Country": "Canada"
+  },
+  {
+    "_id": 691,
+    "Name": "Neon Tech",
+    "Foundingdate": "1983-12-09T09:10:14.283Z",
+    "Country": "Netherlands"
+  },
+  {
+    "_id": 692,
+    "Name": "Cyber Game",
+    "Foundingdate": "1998-02-15T02:03:06.557Z",
+    "Country": "Japan"
+  },
+  {
+    "_id": 693,
+    "Name": "Ancient Game",
+    "Foundingdate": "1998-01-13T10:49:19.052Z",
+    "Country": "China"
+  },
+  {
+    "_id": 694,
+    "Name": "Action Studio",
+    "Foundingdate": "1981-06-02T06:11:44.884Z",
+    "Country": "Brazil"
+  },
+  {
+    "_id": 695,
+    "Name": "Neon Digital",
+    "Foundingdate": "1962-07-13T01:10:19.029Z",
+    "Country": "UK"
+  },
+  {
+    "_id": 696,
+    "Name": "Legendary Game",
+    "Foundingdate": "1965-12-08T10:39:22.565Z",
+    "Country": "Brazil"
+  },
+  {
+    "_id": 697,
+    "Name": "Alpha Digital",
+    "Foundingdate": "1957-12-05T07:40:54.508Z",
+    "Country": "South Korea"
+  },
+  {
+    "_id": 698,
+    "Name": "Action Pixel",
+    "Foundingdate": "1957-07-30T09:07:12.569Z",
+    "Country": "Spain"
+  },
+  {
+    "_id": 699,
+    "Name": "Omega Soft",
+    "Foundingdate": "2020-09-16T04:24:00.903Z",
+    "Country": "France"
+  },
+  {
+    "_id": 700,
+    "Name": "Next Tech",
+    "Foundingdate": "2009-08-31T22:47:26.702Z",
+    "Country": "Spain"
+  },
+  {
+    "_id": 701,
+    "Name": "Modern Developments",
+    "Foundingdate": "1981-04-01T09:10:35.673Z",
+    "Country": "Australia"
+  },
+  {
+    "_id": 702,
+    "Name": "Neon Network",
+    "Foundingdate": "2018-10-19T21:54:30.408Z",
+    "Country": "Brazil"
+  },
+  {
+    "_id": 703,
+    "Name": "Blue Tech",
+    "Foundingdate": "1995-08-15T10:32:33.763Z",
+    "Country": "Netherlands"
+  },
+  {
+    "_id": 704,
+    "Name": "Future Developments",
+    "Foundingdate": "1982-01-05T00:42:31.402Z",
+    "Country": "USA"
+  },
+  {
+    "_id": 705,
+    "Name": "Omega Arts",
+    "Foundingdate": "2003-10-30T04:18:25.133Z",
+    "Country": "Sweden"
+  },
+  {
+    "_id": 706,
+    "Name": "Legendary Entertainment",
+    "Foundingdate": "1990-06-07T15:57:14.766Z",
+    "Country": "USA"
+  },
+  {
+    "_id": 707,
+    "Name": "Beta Digital",
+    "Foundingdate": "1980-06-25T13:44:13.324Z",
+    "Country": "South Korea"
+  },
+  {
+    "_id": 708,
+    "Name": "Silver Game",
+    "Foundingdate": "1992-09-19T21:02:52.315Z",
+    "Country": "Poland"
+  },
+  {
+    "_id": 709,
+    "Name": "Beta Productions",
+    "Foundingdate": "1991-05-15T08:30:54.920Z",
+    "Country": "Australia"
+  },
+  {
+    "_id": 710,
+    "Name": "Omega Tech",
+    "Foundingdate": "1972-04-02T13:55:51.420Z",
+    "Country": "Netherlands"
+  },
+  {
+    "_id": 711,
+    "Name": "Golden Pixel",
+    "Foundingdate": "1952-11-03T07:17:46.275Z",
+    "Country": "Italy"
+  },
+  {
+    "_id": 712,
+    "Name": "Retro Productions",
+    "Foundingdate": "1965-04-08T14:03:25.771Z",
+    "Country": "South Korea"
+  },
+  {
+    "_id": 713,
+    "Name": "Epic Creative",
+    "Foundingdate": "1996-08-24T06:32:22.954Z",
+    "Country": "Canada"
+  },
+  {
+    "_id": 714,
+    "Name": "Blue Studio",
+    "Foundingdate": "1989-03-13T19:42:58.255Z",
+    "Country": "USA"
+  },
+  {
+    "_id": 715,
+    "Name": "Adventure Games",
+    "Foundingdate": "1971-12-26T05:57:04.059Z",
+    "Country": "Brazil"
+  },
+  {
+    "_id": 716,
+    "Name": "Adventure Creative",
+    "Foundingdate": "1995-07-05T04:13:28.467Z",
+    "Country": "USA"
+  },
+  {
+    "_id": 717,
+    "Name": "Golden Arts",
+    "Foundingdate": "2000-02-13T20:31:02.911Z",
+    "Country": "Netherlands"
+  },
+  {
+    "_id": 718,
+    "Name": "Green Developments",
+    "Foundingdate": "1996-07-21T01:13:43.854Z",
+    "Country": "Sweden"
+  },
+  {
+    "_id": 719,
+    "Name": "Neon Productions",
+    "Foundingdate": "1967-11-20T21:12:54.271Z",
+    "Country": "Italy"
+  },
+  {
+    "_id": 720,
+    "Name": "Action Developments",
+    "Foundingdate": "1950-07-19T01:55:34.567Z",
+    "Country": "UK"
+  },
+  {
+    "_id": 721,
+    "Name": "Next Creative",
+    "Foundingdate": "1965-10-05T18:10:45.073Z",
+    "Country": "Italy"
+  },
+  {
+    "_id": 722,
+    "Name": "Golden Developments",
+    "Foundingdate": "2018-08-06T04:20:39.662Z",
+    "Country": "USA"
+  },
+  {
+    "_id": 723,
+    "Name": "Fantasy Tech",
+    "Foundingdate": "1960-01-15T08:26:44.666Z",
+    "Country": "South Korea"
+  },
+  {
+    "_id": 724,
+    "Name": "Cyber Interactive",
+    "Foundingdate": "1960-09-09T03:50:10.596Z",
+    "Country": "USA"
+  },
+  {
+    "_id": 725,
+    "Name": "Golden Network",
+    "Foundingdate": "1969-02-26T07:17:50.392Z",
+    "Country": "Netherlands"
+  },
+  {
+    "_id": 726,
+    "Name": "Future Games",
+    "Foundingdate": "1998-02-15T09:30:32.157Z",
+    "Country": "China"
+  },
+  {
+    "_id": 727,
+    "Name": "Fantasy Game",
+    "Foundingdate": "1986-04-06T13:11:54.404Z",
+    "Country": "Germany"
+  },
+  {
+    "_id": 728,
+    "Name": "Omega Digital",
+    "Foundingdate": "1995-11-01T21:35:26.139Z",
+    "Country": "Australia"
+  },
+  {
+    "_id": 729,
+    "Name": "Silver Arts",
+    "Foundingdate": "1984-01-28T23:43:46.157Z",
+    "Country": "Poland"
+  },
+  {
+    "_id": 730,
+    "Name": "Blue Network",
+    "Foundingdate": "1956-11-16T21:04:05.735Z",
+    "Country": "France"
+  },
+  {
+    "_id": 731,
+    "Name": "Silver Game",
+    "Foundingdate": "2003-10-25T14:49:46.478Z",
+    "Country": "Poland"
+  },
+  {
+    "_id": 732,
+    "Name": "Green Network",
+    "Foundingdate": "1970-05-18T10:02:17.559Z",
+    "Country": "Canada"
+  },
+  {
+    "_id": 733,
+    "Name": "Adventure Soft",
+    "Foundingdate": "1994-12-10T12:13:55.766Z",
+    "Country": "Japan"
+  },
+  {
+    "_id": 734,
+    "Name": "Green Tech",
+    "Foundingdate": "2015-10-20T08:42:09.078Z",
+    "Country": "Canada"
+  },
+  {
+    "_id": 735,
+    "Name": "Red Tech",
+    "Foundingdate": "1978-02-01T22:24:27.011Z",
+    "Country": "Spain"
+  },
+  {
+    "_id": 736,
+    "Name": "Golden Game",
+    "Foundingdate": "1969-10-29T10:57:44.064Z",
+    "Country": "USA"
+  },
+  {
+    "_id": 737,
+    "Name": "Blue Productions",
+    "Foundingdate": "1965-07-01T19:52:28.479Z",
+    "Country": "USA"
+  },
+  {
+    "_id": 738,
+    "Name": "Alpha Digital",
+    "Foundingdate": "2009-11-20T23:47:14.809Z",
+    "Country": "Spain"
+  },
+  {
+    "_id": 739,
+    "Name": "Epic Entertainment",
+    "Foundingdate": "1950-11-17T06:12:06.237Z",
+    "Country": "Canada"
+  },
+  {
+    "_id": 740,
+    "Name": "Fantasy Tech",
+    "Foundingdate": "1962-11-02T00:19:25.344Z",
+    "Country": "Germany"
+  },
+  {
+    "_id": 741,
+    "Name": "Ancient Games",
+    "Foundingdate": "2007-10-15T07:18:54.329Z",
+    "Country": "Brazil"
+  },
+  {
+    "_id": 742,
+    "Name": "Green Studio",
+    "Foundingdate": "1992-12-12T23:33:04.591Z",
+    "Country": "Netherlands"
+  },
+  {
+    "_id": 743,
+    "Name": "Alpha Soft",
+    "Foundingdate": "1991-07-10T11:59:05.994Z",
+    "Country": "South Korea"
+  },
+  {
+    "_id": 744,
+    "Name": "Green Works",
+    "Foundingdate": "1998-04-17T08:42:34.106Z",
+    "Country": "Japan"
+  },
+  {
+    "_id": 745,
+    "Name": "Alpha Interactive",
+    "Foundingdate": "1979-08-24T10:46:11.027Z",
+    "Country": "Canada"
+  },
+  {
+    "_id": 746,
+    "Name": "Future Digital",
+    "Foundingdate": "2010-04-16T02:59:02.807Z",
+    "Country": "Brazil"
+  },
+  {
+    "_id": 747,
+    "Name": "Ancient Works",
+    "Foundingdate": "1983-12-19T04:27:31.395Z",
+    "Country": "Sweden"
+  },
+  {
+    "_id": 748,
+    "Name": "Cyber Tech",
+    "Foundingdate": "1987-05-30T05:39:29.787Z",
+    "Country": "France"
+  },
+  {
+    "_id": 749,
+    "Name": "Cyber Game",
+    "Foundingdate": "1971-03-22T04:39:10.907Z",
+    "Country": "China"
+  },
+  {
+    "_id": 750,
+    "Name": "Fantasy Interactive",
+    "Foundingdate": "1970-12-12T01:06:18.655Z",
+    "Country": "South Korea"
+  },
+  {
+    "_id": 751,
+    "Name": "Cyber Digital",
+    "Foundingdate": "1987-02-09T16:15:19.073Z",
+    "Country": "Australia"
+  },
+  {
+    "_id": 752,
+    "Name": "Action Soft",
+    "Foundingdate": "1992-03-10T21:57:35.795Z",
+    "Country": "USA"
+  },
+  {
+    "_id": 753,
+    "Name": "Beta Developments",
+    "Foundingdate": "1970-12-11T17:18:34.003Z",
+    "Country": "Germany"
+  },
+  {
+    "_id": 754,
+    "Name": "Retro Creative",
+    "Foundingdate": "2003-03-04T12:59:42.148Z",
+    "Country": "Brazil"
+  },
+  {
+    "_id": 755,
+    "Name": "Blue Productions",
+    "Foundingdate": "1973-05-22T08:16:32.797Z",
+    "Country": "Poland"
+  },
+  {
+    "_id": 756,
+    "Name": "Next Works",
+    "Foundingdate": "2016-09-30T06:11:59.623Z",
+    "Country": "Spain"
+  },
+  {
+    "_id": 757,
+    "Name": "Blue Interactive",
+    "Foundingdate": "2009-07-30T22:10:45.270Z",
+    "Country": "Brazil"
+  },
+  {
+    "_id": 758,
+    "Name": "Action Entertainment",
+    "Foundingdate": "2018-11-01T06:04:38.605Z",
+    "Country": "Italy"
+  },
+  {
+    "_id": 759,
+    "Name": "Modern Entertainment",
+    "Foundingdate": "2008-02-09T05:36:12.502Z",
+    "Country": "USA"
+  },
+  {
+    "_id": 760,
+    "Name": "Neon Soft",
+    "Foundingdate": "2003-03-05T16:57:15.884Z",
+    "Country": "Australia"
+  },
+  {
+    "_id": 761,
+    "Name": "Green Tech",
+    "Foundingdate": "2016-09-27T12:14:08.274Z",
+    "Country": "South Korea"
+  },
+  {
+    "_id": 762,
+    "Name": "Action Interactive",
+    "Foundingdate": "2008-02-16T18:31:37.873Z",
+    "Country": "USA"
+  },
+  {
+    "_id": 763,
+    "Name": "Alpha Entertainment",
+    "Foundingdate": "1983-04-14T17:04:06.206Z",
+    "Country": "South Korea"
+  },
+  {
+    "_id": 764,
+    "Name": "Action Soft",
+    "Foundingdate": "1955-09-10T07:57:29.862Z",
+    "Country": "Brazil"
+  },
+  {
+    "_id": 765,
+    "Name": "Alpha Creative",
+    "Foundingdate": "1992-07-07T04:41:20.917Z",
+    "Country": "Netherlands"
+  },
+  {
+    "_id": 766,
+    "Name": "Omega Game",
+    "Foundingdate": "1962-05-16T07:25:59.093Z",
+    "Country": "China"
+  },
+  {
+    "_id": 767,
+    "Name": "Ancient Developments",
+    "Foundingdate": "1993-08-22T15:02:53.020Z",
+    "Country": "Germany"
+  },
+  {
+    "_id": 768,
+    "Name": "Modern Network",
+    "Foundingdate": "1974-12-24T18:44:44.716Z",
+    "Country": "Brazil"
+  },
+  {
+    "_id": 769,
+    "Name": "Silver Games",
+    "Foundingdate": "1975-11-18T01:04:54.836Z",
+    "Country": "Poland"
+  },
+  {
+    "_id": 770,
+    "Name": "Alpha Arts",
+    "Foundingdate": "2010-06-10T09:13:26.855Z",
+    "Country": "Netherlands"
+  },
+  {
+    "_id": 771,
+    "Name": "Next Creative",
+    "Foundingdate": "1967-06-23T17:50:40.044Z",
+    "Country": "USA"
+  },
+  {
+    "_id": 772,
+    "Name": "Alpha Studio",
+    "Foundingdate": "1993-07-09T23:17:45.699Z",
+    "Country": "Netherlands"
+  },
+  {
+    "_id": 773,
+    "Name": "Green Studio",
+    "Foundingdate": "1975-11-17T04:40:29.582Z",
+    "Country": "Italy"
+  },
+  {
+    "_id": 774,
+    "Name": "Next Productions",
+    "Foundingdate": "1976-10-01T01:26:54.509Z",
+    "Country": "South Korea"
+  },
+  {
+    "_id": 775,
+    "Name": "Red Entertainment",
+    "Foundingdate": "2007-03-16T14:02:15.233Z",
+    "Country": "Spain"
+  },
+  {
+    "_id": 776,
+    "Name": "Beta Game",
+    "Foundingdate": "1974-08-01T07:52:18.623Z",
+    "Country": "Sweden"
+  },
+  {
+    "_id": 777,
+    "Name": "Cyber Arts",
+    "Foundingdate": "1986-02-24T09:08:07.552Z",
+    "Country": "China"
+  },
+  {
+    "_id": 778,
+    "Name": "Legendary Interactive",
+    "Foundingdate": "2002-02-13T10:08:21.842Z",
+    "Country": "Canada"
+  },
+  {
+    "_id": 779,
+    "Name": "Alpha Digital",
+    "Foundingdate": "2012-11-02T12:06:37.075Z",
+    "Country": "Germany"
+  },
+  {
+    "_id": 780,
+    "Name": "Fantasy Soft",
+    "Foundingdate": "1964-01-12T19:56:26.346Z",
+    "Country": "China"
+  },
+  {
+    "_id": 781,
+    "Name": "Red Network",
+    "Foundingdate": "1978-05-01T13:42:29.572Z",
+    "Country": "Japan"
+  },
+  {
+    "_id": 782,
+    "Name": "Silver Productions",
+    "Foundingdate": "2003-06-08T17:01:49.662Z",
+    "Country": "UK"
+  },
+  {
+    "_id": 783,
+    "Name": "Beta Studio",
+    "Foundingdate": "1961-06-18T15:16:42.412Z",
+    "Country": "USA"
+  },
+  {
+    "_id": 784,
+    "Name": "Next Soft",
+    "Foundingdate": "1955-03-02T07:37:58.876Z",
+    "Country": "Australia"
+  },
+  {
+    "_id": 785,
+    "Name": "Modern Studio",
+    "Foundingdate": "1981-05-17T17:30:39.209Z",
+    "Country": "South Korea"
+  },
+  {
+    "_id": 786,
+    "Name": "Modern Creative",
+    "Foundingdate": "1996-01-22T14:45:10.163Z",
+    "Country": "Netherlands"
+  },
+  {
+    "_id": 787,
+    "Name": "Adventure Creative",
+    "Foundingdate": "1954-11-15T10:40:29.869Z",
+    "Country": "Poland"
+  },
+  {
+    "_id": 788,
+    "Name": "Action Productions",
+    "Foundingdate": "1963-12-30T00:03:54.551Z",
+    "Country": "USA"
+  },
+  {
+    "_id": 789,
+    "Name": "Omega Entertainment",
+    "Foundingdate": "2001-01-15T09:37:52.699Z",
+    "Country": "Netherlands"
+  },
+  {
+    "_id": 790,
+    "Name": "Legendary Digital",
+    "Foundingdate": "2000-08-29T22:37:03.319Z",
+    "Country": "Poland"
+  },
+  {
+    "_id": 791,
+    "Name": "Ancient Productions",
+    "Foundingdate": "2007-09-18T17:13:54.244Z",
+    "Country": "USA"
+  },
+  {
+    "_id": 792,
+    "Name": "Alpha Game",
+    "Foundingdate": "2014-03-21T11:38:56.348Z",
+    "Country": "Japan"
+  },
+  {
+    "_id": 793,
+    "Name": "Alpha Game",
+    "Foundingdate": "1985-08-19T02:30:30.011Z",
+    "Country": "Brazil"
+  },
+  {
+    "_id": 794,
+    "Name": "Omega Pixel",
+    "Foundingdate": "2017-08-31T21:42:11.247Z",
+    "Country": "Brazil"
+  },
+  {
+    "_id": 795,
+    "Name": "Ancient Tech",
+    "Foundingdate": "1950-10-18T18:21:23.994Z",
+    "Country": "Germany"
+  },
+  {
+    "_id": 796,
+    "Name": "Retro Soft",
+    "Foundingdate": "1972-02-08T04:27:57.601Z",
+    "Country": "Japan"
+  },
+  {
+    "_id": 797,
+    "Name": "Next Soft",
+    "Foundingdate": "1951-04-05T12:57:31.223Z",
+    "Country": "China"
+  },
+  {
+    "_id": 798,
+    "Name": "Golden Network",
+    "Foundingdate": "2008-09-06T03:37:22.746Z",
+    "Country": "Australia"
+  },
+  {
+    "_id": 799,
+    "Name": "Modern Games",
+    "Foundingdate": "2019-08-15T11:26:42.827Z",
+    "Country": "Brazil"
+  },
+  {
+    "_id": 800,
+    "Name": "Future Pixel",
+    "Foundingdate": "1965-08-22T07:09:10.067Z",
+    "Country": "China"
+  },
+  {
+    "_id": 801,
+    "Name": "Future Developments",
+    "Foundingdate": "2016-11-10T16:07:54.045Z",
+    "Country": "Sweden"
+  },
+  {
+    "_id": 802,
+    "Name": "Cyber Arts",
+    "Foundingdate": "1996-01-03T05:46:58.444Z",
+    "Country": "South Korea"
+  },
+  {
+    "_id": 803,
+    "Name": "Golden Developments",
+    "Foundingdate": "1973-02-15T11:33:27.482Z",
+    "Country": "USA"
+  },
+  {
+    "_id": 804,
+    "Name": "Cyber Works",
+    "Foundingdate": "2001-02-28T18:17:22.642Z",
+    "Country": "Canada"
+  },
+  {
+    "_id": 805,
+    "Name": "Silver Pixel",
+    "Foundingdate": "2002-05-30T14:43:41.630Z",
+    "Country": "South Korea"
+  },
+  {
+    "_id": 806,
+    "Name": "Next Studio",
+    "Foundingdate": "1955-03-23T16:40:18.439Z",
+    "Country": "Canada"
+  },
+  {
+    "_id": 807,
+    "Name": "Epic Games",
+    "Foundingdate": "1950-05-21T04:44:53.009Z",
+    "Country": "Brazil"
+  },
+  {
+    "_id": 808,
+    "Name": "Epic Productions",
+    "Foundingdate": "1978-01-08T16:04:25.037Z",
+    "Country": "Sweden"
+  },
+  {
+    "_id": 809,
+    "Name": "Future Digital",
+    "Foundingdate": "1976-07-07T07:44:16.670Z",
+    "Country": "Poland"
+  },
+  {
+    "_id": 810,
+    "Name": "Blue Entertainment",
+    "Foundingdate": "1968-09-23T17:24:38.742Z",
+    "Country": "USA"
+  },
+  {
+    "_id": 811,
+    "Name": "Action Games",
+    "Foundingdate": "2010-07-19T06:41:40.003Z",
+    "Country": "Italy"
+  },
+  {
+    "_id": 812,
+    "Name": "Red Game",
+    "Foundingdate": "2001-12-04T06:16:38.403Z",
+    "Country": "Italy"
+  },
+  {
+    "_id": 813,
+    "Name": "Future Productions",
+    "Foundingdate": "1953-10-27T19:35:48.151Z",
+    "Country": "Netherlands"
+  },
+  {
+    "_id": 814,
+    "Name": "Fantasy Studio",
+    "Foundingdate": "2008-09-10T21:14:57.560Z",
+    "Country": "UK"
+  },
+  {
+    "_id": 815,
+    "Name": "Omega Productions",
+    "Foundingdate": "2005-09-16T10:12:27.300Z",
+    "Country": "South Korea"
+  },
+  {
+    "_id": 816,
+    "Name": "Adventure Productions",
+    "Foundingdate": "1957-05-04T10:37:19.095Z",
+    "Country": "Spain"
+  },
+  {
+    "_id": 817,
+    "Name": "Action Works",
+    "Foundingdate": "1983-01-30T14:16:22.615Z",
+    "Country": "China"
+  },
+  {
+    "_id": 818,
+    "Name": "Modern Games",
+    "Foundingdate": "1957-01-16T12:33:41.230Z",
+    "Country": "Poland"
+  },
+  {
+    "_id": 819,
+    "Name": "Future Game",
+    "Foundingdate": "2004-08-27T06:21:32.263Z",
+    "Country": "Brazil"
+  },
+  {
+    "_id": 820,
+    "Name": "Alpha Soft",
+    "Foundingdate": "1950-10-29T17:10:54.073Z",
+    "Country": "UK"
+  },
+  {
+    "_id": 821,
+    "Name": "Neon Soft",
+    "Foundingdate": "1973-06-13T00:27:46.729Z",
+    "Country": "Canada"
+  },
+  {
+    "_id": 822,
+    "Name": "Cyber Developments",
+    "Foundingdate": "1978-12-02T06:05:06.052Z",
+    "Country": "Japan"
+  },
+  {
+    "_id": 823,
+    "Name": "Modern Digital",
+    "Foundingdate": "1979-12-09T12:47:22.595Z",
+    "Country": "Japan"
+  },
+  {
+    "_id": 824,
+    "Name": "Beta Game",
+    "Foundingdate": "1982-05-01T19:39:51.270Z",
+    "Country": "China"
+  },
+  {
+    "_id": 825,
+    "Name": "Alpha Arts",
+    "Foundingdate": "1951-06-14T22:38:54.691Z",
+    "Country": "Spain"
+  },
+  {
+    "_id": 826,
+    "Name": "Future Entertainment",
+    "Foundingdate": "1960-01-09T19:21:40.818Z",
+    "Country": "Sweden"
+  },
+  {
+    "_id": 827,
+    "Name": "Ancient Pixel",
+    "Foundingdate": "1974-12-13T03:25:51.131Z",
+    "Country": "South Korea"
+  },
+  {
+    "_id": 828,
+    "Name": "Golden Soft",
+    "Foundingdate": "2015-02-03T01:32:03.172Z",
+    "Country": "Brazil"
+  },
+  {
+    "_id": 829,
+    "Name": "Cyber Game",
+    "Foundingdate": "1951-10-20T16:47:01.186Z",
+    "Country": "UK"
+  },
+  {
+    "_id": 830,
+    "Name": "Legendary Network",
+    "Foundingdate": "1959-11-25T10:56:41.048Z",
+    "Country": "Germany"
+  },
+  {
+    "_id": 831,
+    "Name": "Red Productions",
+    "Foundingdate": "2006-08-14T21:02:06.031Z",
+    "Country": "Japan"
+  },
+  {
+    "_id": 832,
+    "Name": "Retro Network",
+    "Foundingdate": "1950-05-04T03:57:09.602Z",
+    "Country": "Italy"
+  },
+  {
+    "_id": 833,
+    "Name": "Red Games",
+    "Foundingdate": "1971-07-26T01:09:09.667Z",
+    "Country": "Canada"
+  },
+  {
+    "_id": 834,
+    "Name": "Alpha Game",
+    "Foundingdate": "2001-07-23T17:16:34.638Z",
+    "Country": "Brazil"
+  },
+  {
+    "_id": 835,
+    "Name": "Alpha Interactive",
+    "Foundingdate": "1951-04-04T04:14:48.768Z",
+    "Country": "Italy"
+  },
+  {
+    "_id": 836,
+    "Name": "Epic Studio",
+    "Foundingdate": "2005-04-03T06:19:44.146Z",
+    "Country": "Brazil"
+  },
+  {
+    "_id": 837,
+    "Name": "Beta Tech",
+    "Foundingdate": "2020-09-11T15:14:00.408Z",
+    "Country": "Brazil"
+  },
+  {
+    "_id": 838,
+    "Name": "Modern Soft",
+    "Foundingdate": "1955-12-08T11:56:05.651Z",
+    "Country": "Germany"
+  },
+  {
+    "_id": 839,
+    "Name": "Blue Tech",
+    "Foundingdate": "2001-11-21T22:59:40.895Z",
+    "Country": "China"
+  },
+  {
+    "_id": 840,
+    "Name": "Epic Works",
+    "Foundingdate": "1950-04-14T05:50:01.814Z",
+    "Country": "Netherlands"
+  },
+  {
+    "_id": 841,
+    "Name": "Adventure Interactive",
+    "Foundingdate": "2003-05-04T22:58:51.989Z",
+    "Country": "Canada"
+  },
+  {
+    "_id": 842,
+    "Name": "Beta Pixel",
+    "Foundingdate": "2007-06-04T12:24:49.806Z",
+    "Country": "Italy"
+  },
+  {
+    "_id": 843,
+    "Name": "Beta Digital",
+    "Foundingdate": "2005-02-24T15:14:40.607Z",
+    "Country": "Brazil"
+  },
+  {
+    "_id": 844,
+    "Name": "Modern Creative",
+    "Foundingdate": "1995-07-24T09:12:14.522Z",
+    "Country": "Netherlands"
+  },
+  {
+    "_id": 845,
+    "Name": "Next Developments",
+    "Foundingdate": "1964-12-02T08:05:22.348Z",
+    "Country": "Japan"
+  },
+  {
+    "_id": 846,
+    "Name": "Cyber Creative",
+    "Foundingdate": "1996-04-17T08:32:52.766Z",
+    "Country": "Poland"
+  },
+  {
+    "_id": 847,
+    "Name": "Green Studio",
+    "Foundingdate": "1962-04-17T07:39:48.776Z",
+    "Country": "South Korea"
+  },
+  {
+    "_id": 848,
+    "Name": "Adventure Games",
+    "Foundingdate": "2013-04-03T01:49:56.363Z",
+    "Country": "Spain"
+  },
+  {
+    "_id": 849,
+    "Name": "Green Developments",
+    "Foundingdate": "1967-11-18T04:20:37.287Z",
+    "Country": "Canada"
+  },
+  {
+    "_id": 850,
+    "Name": "Epic Games",
+    "Foundingdate": "1950-11-15T20:49:33.134Z",
+    "Country": "Netherlands"
+  },
+  {
+    "_id": 851,
+    "Name": "Epic Soft",
+    "Foundingdate": "2003-11-15T07:30:31.061Z",
+    "Country": "South Korea"
+  },
+  {
+    "_id": 852,
+    "Name": "Adventure Creative",
+    "Foundingdate": "1974-04-05T05:45:57.772Z",
+    "Country": "Italy"
+  },
+  {
+    "_id": 853,
+    "Name": "Blue Games",
+    "Foundingdate": "2012-11-22T17:44:00.315Z",
+    "Country": "China"
+  },
+  {
+    "_id": 854,
+    "Name": "Legendary Creative",
+    "Foundingdate": "1965-01-20T02:44:18.920Z",
+    "Country": "China"
+  },
+  {
+    "_id": 855,
+    "Name": "Golden Network",
+    "Foundingdate": "2017-07-19T17:17:41.364Z",
+    "Country": "France"
+  },
+  {
+    "_id": 856,
+    "Name": "Green Entertainment",
+    "Foundingdate": "1964-02-07T09:48:07.065Z",
+    "Country": "Sweden"
+  },
+  {
+    "_id": 857,
+    "Name": "Modern Studio",
+    "Foundingdate": "1983-08-23T11:37:25.568Z",
+    "Country": "Poland"
+  },
+  {
+    "_id": 858,
+    "Name": "Blue Games",
+    "Foundingdate": "1977-10-12T15:03:53.811Z",
+    "Country": "Italy"
+  },
+  {
+    "_id": 859,
+    "Name": "Neon Soft",
+    "Foundingdate": "1978-10-21T07:21:35.301Z",
+    "Country": "Australia"
+  },
+  {
+    "_id": 860,
+    "Name": "Red Soft",
+    "Foundingdate": "1980-08-25T08:49:35.064Z",
+    "Country": "Canada"
+  },
+  {
+    "_id": 861,
+    "Name": "Future Tech",
+    "Foundingdate": "1973-02-15T20:15:40.405Z",
+    "Country": "UK"
+  },
+  {
+    "_id": 862,
+    "Name": "Green Pixel",
+    "Foundingdate": "2009-07-21T15:11:40.710Z",
+    "Country": "Brazil"
+  },
+  {
+    "_id": 863,
+    "Name": "Blue Entertainment",
+    "Foundingdate": "1969-07-22T04:23:25.076Z",
+    "Country": "USA"
+  },
+  {
+    "_id": 864,
+    "Name": "Neon Game",
+    "Foundingdate": "2001-05-21T04:06:00.293Z",
+    "Country": "USA"
+  },
+  {
+    "_id": 865,
+    "Name": "Adventure Games",
+    "Foundingdate": "1954-04-11T20:34:01.953Z",
+    "Country": "UK"
+  },
+  {
+    "_id": 866,
+    "Name": "Blue Entertainment",
+    "Foundingdate": "2011-06-30T00:59:39.484Z",
+    "Country": "Australia"
+  },
+  {
+    "_id": 867,
+    "Name": "Adventure Game",
+    "Foundingdate": "1956-01-29T17:23:23.209Z",
+    "Country": "Germany"
+  },
+  {
+    "_id": 868,
+    "Name": "Ancient Pixel",
+    "Foundingdate": "2000-02-05T02:48:04.004Z",
+    "Country": "South Korea"
+  },
+  {
+    "_id": 869,
+    "Name": "Blue Studio",
+    "Foundingdate": "1961-12-19T01:15:33.087Z",
+    "Country": "USA"
+  },
+  {
+    "_id": 870,
+    "Name": "Silver Network",
+    "Foundingdate": "1979-08-10T09:12:03.527Z",
+    "Country": "Poland"
+  },
+  {
+    "_id": 871,
+    "Name": "Omega Pixel",
+    "Foundingdate": "1959-10-28T17:03:49.540Z",
+    "Country": "Canada"
+  },
+  {
+    "_id": 872,
+    "Name": "Epic Digital",
+    "Foundingdate": "1998-07-03T00:26:09.061Z",
+    "Country": "Brazil"
+  },
+  {
+    "_id": 873,
+    "Name": "Retro Arts",
+    "Foundingdate": "1970-03-02T02:58:46.138Z",
+    "Country": "South Korea"
+  },
+  {
+    "_id": 874,
+    "Name": "Action Productions",
+    "Foundingdate": "2003-11-26T06:49:09.158Z",
+    "Country": "China"
+  },
+  {
+    "_id": 875,
+    "Name": "Beta Entertainment",
+    "Foundingdate": "1974-12-12T00:01:53.081Z",
+    "Country": "Australia"
+  },
+  {
+    "_id": 876,
+    "Name": "Legendary Arts",
+    "Foundingdate": "1969-12-26T02:17:23.153Z",
+    "Country": "Italy"
+  },
+  {
+    "_id": 877,
+    "Name": "Action Game",
+    "Foundingdate": "1954-03-11T16:30:42.830Z",
+    "Country": "Italy"
+  },
+  {
+    "_id": 878,
+    "Name": "Neon Game",
+    "Foundingdate": "1983-02-05T17:28:34.232Z",
+    "Country": "Germany"
+  },
+  {
+    "_id": 879,
+    "Name": "Adventure Games",
+    "Foundingdate": "1963-11-26T22:21:54.356Z",
+    "Country": "Japan"
+  },
+  {
+    "_id": 880,
+    "Name": "Golden Works",
+    "Foundingdate": "1965-08-14T23:02:18.519Z",
+    "Country": "South Korea"
+  },
+  {
+    "_id": 881,
+    "Name": "Neon Studio",
+    "Foundingdate": "1972-05-11T16:37:39.958Z",
+    "Country": "Italy"
+  },
+  {
+    "_id": 882,
+    "Name": "Blue Creative",
+    "Foundingdate": "1967-02-24T21:34:20.864Z",
+    "Country": "Spain"
+  },
+  {
+    "_id": 883,
+    "Name": "Alpha Creative",
+    "Foundingdate": "2001-08-27T15:21:26.817Z",
+    "Country": "China"
+  },
+  {
+    "_id": 884,
+    "Name": "Golden Productions",
+    "Foundingdate": "2007-06-18T05:09:25.254Z",
+    "Country": "France"
+  },
+  {
+    "_id": 885,
+    "Name": "Next Digital",
+    "Foundingdate": "1954-10-24T03:40:20.700Z",
+    "Country": "Italy"
+  },
+  {
+    "_id": 886,
+    "Name": "Omega Game",
+    "Foundingdate": "2009-08-04T19:41:43.247Z",
+    "Country": "Netherlands"
+  },
+  {
+    "_id": 887,
+    "Name": "Alpha Network",
+    "Foundingdate": "1968-10-21T20:25:29.317Z",
+    "Country": "USA"
+  },
+  {
+    "_id": 888,
+    "Name": "Next Creative",
+    "Foundingdate": "1984-05-17T19:17:35.397Z",
+    "Country": "France"
+  },
+  {
+    "_id": 889,
+    "Name": "Ancient Studio",
+    "Foundingdate": "1951-12-28T00:18:05.331Z",
+    "Country": "Australia"
+  },
+  {
+    "_id": 890,
+    "Name": "Legendary Studio",
+    "Foundingdate": "1982-07-10T09:12:08.356Z",
+    "Country": "UK"
+  },
+  {
+    "_id": 891,
+    "Name": "Modern Developments",
+    "Foundingdate": "1981-02-24T08:14:43.331Z",
+    "Country": "South Korea"
+  },
+  {
+    "_id": 892,
+    "Name": "Retro Game",
+    "Foundingdate": "1998-04-11T12:02:33.274Z",
+    "Country": "South Korea"
+  },
+  {
+    "_id": 893,
+    "Name": "Action Digital",
+    "Foundingdate": "2010-07-11T01:12:42.103Z",
+    "Country": "Brazil"
+  },
+  {
+    "_id": 894,
+    "Name": "Fantasy Studio",
+    "Foundingdate": "1993-01-05T13:21:24.319Z",
+    "Country": "China"
+  },
+  {
+    "_id": 895,
+    "Name": "Adventure Pixel",
+    "Foundingdate": "1963-01-21T10:00:44.788Z",
+    "Country": "Japan"
+  },
+  {
+    "_id": 896,
+    "Name": "Alpha Arts",
+    "Foundingdate": "2013-02-19T16:27:03.116Z",
+    "Country": "China"
+  },
+  {
+    "_id": 897,
+    "Name": "Alpha Games",
+    "Foundingdate": "1960-01-22T16:05:01.096Z",
+    "Country": "Italy"
+  },
+  {
+    "_id": 898,
+    "Name": "Beta Creative",
+    "Foundingdate": "1996-09-14T15:10:12.110Z",
+    "Country": "France"
+  },
+  {
+    "_id": 899,
+    "Name": "Green Pixel",
+    "Foundingdate": "1972-08-11T03:19:17.011Z",
+    "Country": "Netherlands"
+  },
+  {
+    "_id": 900,
+    "Name": "Green Interactive",
+    "Foundingdate": "1953-06-02T21:29:18.818Z",
+    "Country": "Brazil"
+  },
+  {
+    "_id": 901,
+    "Name": "Blue Games",
+    "Foundingdate": "1952-03-07T18:04:37.160Z",
+    "Country": "UK"
+  },
+  {
+    "_id": 902,
+    "Name": "Adventure Games",
+    "Foundingdate": "1957-11-20T00:56:32.841Z",
+    "Country": "South Korea"
+  },
+  {
+    "_id": 903,
+    "Name": "Adventure Arts",
+    "Foundingdate": "1972-08-20T00:55:18.593Z",
+    "Country": "Australia"
+  },
+  {
+    "_id": 904,
+    "Name": "Retro Creative",
+    "Foundingdate": "1999-12-25T14:41:19.368Z",
+    "Country": "Spain"
+  },
+  {
+    "_id": 905,
+    "Name": "Blue Creative",
+    "Foundingdate": "1973-07-28T14:13:38.328Z",
+    "Country": "South Korea"
+  },
+  {
+    "_id": 906,
+    "Name": "Next Game",
+    "Foundingdate": "2007-05-03T08:22:01.315Z",
+    "Country": "Spain"
+  },
+  {
+    "_id": 907,
+    "Name": "Cyber Developments",
+    "Foundingdate": "1982-11-23T22:07:19.862Z",
+    "Country": "Sweden"
+  },
+  {
+    "_id": 908,
+    "Name": "Adventure Interactive",
+    "Foundingdate": "1976-11-19T10:50:56.225Z",
+    "Country": "Canada"
+  },
+  {
+    "_id": 909,
+    "Name": "Cyber Network",
+    "Foundingdate": "1999-08-11T06:00:28.110Z",
+    "Country": "Spain"
+  },
+  {
+    "_id": 910,
+    "Name": "Retro Game",
+    "Foundingdate": "1973-05-17T02:09:41.940Z",
+    "Country": "China"
+  },
+  {
+    "_id": 911,
+    "Name": "Cyber Game",
+    "Foundingdate": "2020-12-04T13:40:49.054Z",
+    "Country": "Germany"
+  },
+  {
+    "_id": 912,
+    "Name": "Next Soft",
+    "Foundingdate": "2015-02-22T09:24:20.464Z",
+    "Country": "Germany"
+  },
+  {
+    "_id": 913,
+    "Name": "Neon Productions",
+    "Foundingdate": "1969-11-20T21:18:26.958Z",
+    "Country": "Poland"
+  },
+  {
+    "_id": 914,
+    "Name": "Adventure Soft",
+    "Foundingdate": "2013-01-16T12:32:37.933Z",
+    "Country": "Canada"
+  },
+  {
+    "_id": 915,
+    "Name": "Action Arts",
+    "Foundingdate": "1994-06-18T19:25:46.661Z",
+    "Country": "Canada"
+  },
+  {
+    "_id": 916,
+    "Name": "Action Developments",
+    "Foundingdate": "1974-04-15T23:08:31.819Z",
+    "Country": "South Korea"
+  },
+  {
+    "_id": 917,
+    "Name": "Blue Studio",
+    "Foundingdate": "1970-08-16T06:02:23.609Z",
+    "Country": "France"
+  },
+  {
+    "_id": 918,
+    "Name": "Next Game",
+    "Foundingdate": "1969-05-09T17:30:42.735Z",
+    "Country": "USA"
+  },
+  {
+    "_id": 919,
+    "Name": "Modern Digital",
+    "Foundingdate": "1965-04-02T04:54:08.502Z",
+    "Country": "USA"
+  },
+  {
+    "_id": 920,
+    "Name": "Cyber Game",
+    "Foundingdate": "1986-08-02T17:31:54.806Z",
+    "Country": "Sweden"
+  },
+  {
+    "_id": 921,
+    "Name": "Adventure Works",
+    "Foundingdate": "1997-09-05T15:19:52.575Z",
+    "Country": "Brazil"
+  },
+  {
+    "_id": 922,
+    "Name": "Legendary Creative",
+    "Foundingdate": "1985-10-16T19:55:40.408Z",
+    "Country": "Germany"
+  },
+  {
+    "_id": 923,
+    "Name": "Modern Digital",
+    "Foundingdate": "2014-02-06T09:04:12.827Z",
+    "Country": "China"
+  },
+  {
+    "_id": 924,
+    "Name": "Fantasy Productions",
+    "Foundingdate": "1958-01-14T13:10:41.148Z",
+    "Country": "USA"
+  },
+  {
+    "_id": 925,
+    "Name": "Neon Game",
+    "Foundingdate": "1995-09-11T21:49:17.757Z",
+    "Country": "Japan"
+  },
+  {
+    "_id": 926,
+    "Name": "Red Game",
+    "Foundingdate": "1961-11-21T20:15:34.074Z",
+    "Country": "China"
+  },
+  {
+    "_id": 927,
+    "Name": "Beta Game",
+    "Foundingdate": "2008-04-05T09:34:56.990Z",
+    "Country": "Spain"
+  },
+  {
+    "_id": 928,
+    "Name": "Blue Digital",
+    "Foundingdate": "1999-05-26T06:51:21.044Z",
+    "Country": "Netherlands"
+  },
+  {
+    "_id": 929,
+    "Name": "Beta Studio",
+    "Foundingdate": "1966-10-31T16:11:12.706Z",
+    "Country": "Canada"
+  },
+  {
+    "_id": 930,
+    "Name": "Future Developments",
+    "Foundingdate": "2015-05-31T06:53:30.052Z",
+    "Country": "Spain"
+  },
+  {
+    "_id": 931,
+    "Name": "Beta Entertainment",
+    "Foundingdate": "2010-08-06T02:32:12.279Z",
+    "Country": "Australia"
+  },
+  {
+    "_id": 932,
+    "Name": "Cyber Network",
+    "Foundingdate": "1999-11-16T18:32:42.482Z",
+    "Country": "Canada"
+  },
+  {
+    "_id": 933,
+    "Name": "Action Productions",
+    "Foundingdate": "1971-05-02T04:32:00.088Z",
+    "Country": "UK"
+  },
+  {
+    "_id": 934,
+    "Name": "Next Soft",
+    "Foundingdate": "2019-01-27T01:42:33.143Z",
+    "Country": "France"
+  },
+  {
+    "_id": 935,
+    "Name": "Cyber Arts",
+    "Foundingdate": "1979-12-18T14:35:41.462Z",
+    "Country": "France"
+  },
+  {
+    "_id": 936,
+    "Name": "Adventure Arts",
+    "Foundingdate": "1996-12-09T09:04:04.748Z",
+    "Country": "Spain"
+  },
+  {
+    "_id": 937,
+    "Name": "Modern Entertainment",
+    "Foundingdate": "2005-11-16T23:38:27.762Z",
+    "Country": "UK"
+  },
+  {
+    "_id": 938,
+    "Name": "Retro Network",
+    "Foundingdate": "2019-01-27T16:30:12.394Z",
+    "Country": "Australia"
+  },
+  {
+    "_id": 939,
+    "Name": "Epic Digital",
+    "Foundingdate": "2016-08-17T10:30:14.913Z",
+    "Country": "China"
+  },
+  {
+    "_id": 940,
+    "Name": "Omega Pixel",
+    "Foundingdate": "1994-01-22T16:32:25.926Z",
+    "Country": "Spain"
+  },
+  {
+    "_id": 941,
+    "Name": "Green Arts",
+    "Foundingdate": "2020-12-05T13:00:18.911Z",
+    "Country": "Poland"
+  },
+  {
+    "_id": 942,
+    "Name": "Green Studio",
+    "Foundingdate": "1974-07-17T05:36:12.178Z",
+    "Country": "South Korea"
+  },
+  {
+    "_id": 943,
+    "Name": "Cyber Works",
+    "Foundingdate": "2004-08-03T12:36:16.455Z",
+    "Country": "UK"
+  },
+  {
+    "_id": 944,
+    "Name": "Silver Interactive",
+    "Foundingdate": "1957-05-02T07:49:10.248Z",
+    "Country": "USA"
+  },
+  {
+    "_id": 945,
+    "Name": "Action Interactive",
+    "Foundingdate": "2006-07-17T15:50:26.994Z",
+    "Country": "South Korea"
+  },
+  {
+    "_id": 946,
+    "Name": "Legendary Games",
+    "Foundingdate": "1980-09-20T19:53:44.708Z",
+    "Country": "Australia"
+  },
+  {
+    "_id": 947,
+    "Name": "Green Games",
+    "Foundingdate": "1950-01-24T06:56:42.624Z",
+    "Country": "Japan"
+  },
+  {
+    "_id": 948,
+    "Name": "Future Network",
+    "Foundingdate": "1992-07-26T19:44:37.733Z",
+    "Country": "South Korea"
+  },
+  {
+    "_id": 949,
+    "Name": "Epic Digital",
+    "Foundingdate": "1955-09-27T21:30:17.727Z",
+    "Country": "Brazil"
+  },
+  {
+    "_id": 950,
+    "Name": "Epic Works",
+    "Foundingdate": "2005-05-02T22:21:35.328Z",
+    "Country": "Sweden"
+  },
+  {
+    "_id": 951,
+    "Name": "Retro Digital",
+    "Foundingdate": "1951-05-19T10:16:58.255Z",
+    "Country": "Japan"
+  },
+  {
+    "_id": 952,
+    "Name": "Future Pixel",
+    "Foundingdate": "1967-03-08T06:42:49.212Z",
+    "Country": "Japan"
+  },
+  {
+    "_id": 953,
+    "Name": "Blue Pixel",
+    "Foundingdate": "1963-02-21T05:45:05.906Z",
+    "Country": "Netherlands"
+  },
+  {
+    "_id": 954,
+    "Name": "Future Digital",
+    "Foundingdate": "1993-07-18T20:21:58.003Z",
+    "Country": "Sweden"
+  },
+  {
+    "_id": 955,
+    "Name": "Beta Productions",
+    "Foundingdate": "1968-11-20T20:26:00.211Z",
+    "Country": "Brazil"
+  },
+  {
+    "_id": 956,
+    "Name": "Action Studio",
+    "Foundingdate": "1968-05-27T09:13:05.943Z",
+    "Country": "Netherlands"
+  },
+  {
+    "_id": 957,
+    "Name": "Fantasy Network",
+    "Foundingdate": "1964-06-19T00:39:12.572Z",
+    "Country": "Sweden"
+  },
+  {
+    "_id": 958,
+    "Name": "Fantasy Developments",
+    "Foundingdate": "2018-08-05T00:07:55.055Z",
+    "Country": "Brazil"
+  },
+  {
+    "_id": 959,
+    "Name": "Beta Digital",
+    "Foundingdate": "1968-12-14T08:07:23.983Z",
+    "Country": "Australia"
+  },
+  {
+    "_id": 960,
+    "Name": "Modern Tech",
+    "Foundingdate": "1981-06-16T08:30:28.571Z",
+    "Country": "Italy"
+  },
+  {
+    "_id": 961,
+    "Name": "Adventure Pixel",
+    "Foundingdate": "1991-08-17T08:33:24.624Z",
+    "Country": "France"
+  },
+  {
+    "_id": 962,
+    "Name": "Legendary Entertainment",
+    "Foundingdate": "1986-10-11T13:31:17.451Z",
+    "Country": "Spain"
+  },
+  {
+    "_id": 963,
+    "Name": "Neon Works",
+    "Foundingdate": "1963-04-04T20:02:27.530Z",
+    "Country": "South Korea"
+  },
+  {
+    "_id": 964,
+    "Name": "Silver Developments",
+    "Foundingdate": "2016-02-08T05:54:48.284Z",
+    "Country": "USA"
+  },
+  {
+    "_id": 965,
+    "Name": "Omega Interactive",
+    "Foundingdate": "1983-07-19T07:53:22.688Z",
+    "Country": "China"
+  },
+  {
+    "_id": 966,
+    "Name": "Neon Game",
+    "Foundingdate": "1996-08-26T00:57:00.906Z",
+    "Country": "Australia"
+  },
+  {
+    "_id": 967,
+    "Name": "Alpha Game",
+    "Foundingdate": "2006-05-04T17:27:46.691Z",
+    "Country": "China"
+  },
+  {
+    "_id": 968,
+    "Name": "Beta Pixel",
+    "Foundingdate": "2014-08-31T08:36:17.492Z",
+    "Country": "Brazil"
+  },
+  {
+    "_id": 969,
+    "Name": "Silver Productions",
+    "Foundingdate": "1999-10-25T09:12:02.994Z",
+    "Country": "Brazil"
+  },
+  {
+    "_id": 970,
+    "Name": "Beta Developments",
+    "Foundingdate": "2010-10-12T00:21:30.600Z",
+    "Country": "Netherlands"
+  },
+  {
+    "_id": 971,
+    "Name": "Red Studio",
+    "Foundingdate": "1973-09-20T01:11:43.088Z",
+    "Country": "Poland"
+  },
+  {
+    "_id": 972,
+    "Name": "Omega Digital",
+    "Foundingdate": "1970-08-23T16:12:01.773Z",
+    "Country": "Brazil"
+  },
+  {
+    "_id": 973,
+    "Name": "Silver Arts",
+    "Foundingdate": "2001-01-21T07:08:38.276Z",
+    "Country": "Canada"
+  },
+  {
+    "_id": 974,
+    "Name": "Future Game",
+    "Foundingdate": "1955-08-02T19:55:13.250Z",
+    "Country": "Spain"
+  },
+  {
+    "_id": 975,
+    "Name": "Modern Entertainment",
+    "Foundingdate": "1953-06-03T00:34:31.668Z",
+    "Country": "France"
+  },
+  {
+    "_id": 976,
+    "Name": "Future Digital",
+    "Foundingdate": "1961-09-16T05:35:38.333Z",
+    "Country": "France"
+  },
+  {
+    "_id": 977,
+    "Name": "Next Pixel",
+    "Foundingdate": "2016-06-20T15:24:25.962Z",
+    "Country": "Poland"
+  },
+  {
+    "_id": 978,
+    "Name": "Neon Soft",
+    "Foundingdate": "1987-06-14T23:06:31.116Z",
+    "Country": "Poland"
+  },
+  {
+    "_id": 979,
+    "Name": "Action Developments",
+    "Foundingdate": "1950-05-04T01:06:02.106Z",
+    "Country": "Poland"
+  },
+  {
+    "_id": 980,
+    "Name": "Action Developments",
+    "Foundingdate": "1955-09-19T01:40:50.445Z",
+    "Country": "UK"
+  },
+  {
+    "_id": 981,
+    "Name": "Future Games",
+    "Foundingdate": "1964-03-03T02:54:22.407Z",
+    "Country": "Brazil"
+  },
+  {
+    "_id": 982,
+    "Name": "Retro Entertainment",
+    "Foundingdate": "1968-08-01T00:57:14.502Z",
+    "Country": "Brazil"
+  },
+  {
+    "_id": 983,
+    "Name": "Retro Entertainment",
+    "Foundingdate": "1978-11-20T22:34:41.993Z",
+    "Country": "Poland"
+  },
+  {
+    "_id": 984,
+    "Name": "Fantasy Arts",
+    "Foundingdate": "2010-12-11T03:44:39.394Z",
+    "Country": "Spain"
+  },
+  {
+    "_id": 985,
+    "Name": "Retro Interactive",
+    "Foundingdate": "1988-08-22T12:12:04.183Z",
+    "Country": "Sweden"
+  },
+  {
+    "_id": 986,
+    "Name": "Red Digital",
+    "Foundingdate": "2015-08-05T23:03:09.167Z",
+    "Country": "Italy"
+  },
+  {
+    "_id": 987,
+    "Name": "Legendary Developments",
+    "Foundingdate": "1950-04-11T02:12:43.632Z",
+    "Country": "Brazil"
+  },
+  {
+    "_id": 988,
+    "Name": "Modern Network",
+    "Foundingdate": "1991-12-09T19:06:14.925Z",
+    "Country": "Japan"
+  },
+  {
+    "_id": 989,
+    "Name": "Cyber Arts",
+    "Foundingdate": "2007-07-03T23:10:31.392Z",
+    "Country": "Netherlands"
+  },
+  {
+    "_id": 990,
+    "Name": "Retro Game",
+    "Foundingdate": "1975-07-05T10:23:53.930Z",
+    "Country": "Canada"
+  },
+  {
+    "_id": 991,
+    "Name": "Ancient Game",
+    "Foundingdate": "1994-09-15T07:26:58.401Z",
+    "Country": "USA"
+  },
+  {
+    "_id": 992,
+    "Name": "Retro Creative",
+    "Foundingdate": "1959-01-28T06:22:16.197Z",
+    "Country": "Japan"
+  },
+  {
+    "_id": 993,
+    "Name": "Epic Interactive",
+    "Foundingdate": "1975-12-15T16:06:27.390Z",
+    "Country": "Poland"
+  },
+  {
+    "_id": 994,
+    "Name": "Alpha Productions",
+    "Foundingdate": "1973-12-13T22:50:13.661Z",
+    "Country": "Japan"
+  },
+  {
+    "_id": 995,
+    "Name": "Next Arts",
+    "Foundingdate": "2017-01-31T06:19:56.133Z",
+    "Country": "Netherlands"
+  },
+  {
+    "_id": 996,
+    "Name": "Future Pixel",
+    "Foundingdate": "2017-02-13T04:51:27.265Z",
+    "Country": "USA"
+  },
+  {
+    "_id": 997,
+    "Name": "Alpha Studio",
+    "Foundingdate": "1957-02-25T02:58:43.425Z",
+    "Country": "Japan"
+  },
+  {
+    "_id": 998,
+    "Name": "Cyber Pixel",
+    "Foundingdate": "2018-09-01T02:50:20.385Z",
+    "Country": "Poland"
+  },
+  {
+    "_id": 999,
+    "Name": "Adventure Developments",
+    "Foundingdate": "1981-12-02T21:31:57.792Z",
+    "Country": "Brazil"
+  },
+  {
+    "_id": 1000,
+    "Name": "Alpha Entertainment",
+    "Foundingdate": "1990-04-06T00:38:33.444Z",
+    "Country": "Canada"
+  }
+]
