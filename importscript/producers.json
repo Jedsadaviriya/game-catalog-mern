@@ -1,0 +1,122 @@
+[
+  {
+    "_id": 101,
+    "Name": "CD Projekt Red",
+    "Foundingdate": "2002-05-01T00:00:00Z",
+    "Country": "Poland"
+  },
+  {
+    "_id": 102,
+    "Name": "Rockstar Games",
+    "Foundingdate": "1998-12-01T00:00:00Z",
+    "Country": "USA"
+  },
+  {
+    "_id": 103,
+    "Name": "Nintendo",
+    "Foundingdate": "1889-09-23T00:00:00Z",
+    "Country": "Japan"
+  },
+  {
+    "_id": 104,
+    "Name": "FromSoftware",
+    "Foundingdate": "1986-11-01T00:00:00Z",
+    "Country": "Japan"
+  },
+  {
+    "_id": 105,
+    "Name": "Team Cherry",
+    "Foundingdate": "2014-01-01T00:00:00Z",
+    "Country": "Australia"
+  },
+  {
+    "_id": 106,
+    "Name": "Santa Monica Studio",
+    "Foundingdate": "1999-01-01T00:00:00Z",
+    "Country": "USA"
+  },
+  {
+    "_id": 107,
+    "Name": "Guerrilla Games",
+    "Foundingdate": "2000-01-01T00:00:00Z",
+    "Country": "Netherlands"
+  },
+  {
+    "_id": 108,
+    "Name": "ConcernedApe",
+    "Foundingdate": "2012-01-01T00:00:00Z",
+    "Country": "USA"
+  },
+  {
+    "_id": 109,
+    "Name": "Mojang Studios",
+    "Foundingdate": "2009-05-01T00:00:00Z",
+    "Country": "Sweden"
+  },
+  {
+    "_id": 110,
+    "Name": "Valve Corporation",
+    "Foundingdate": "1996-08-24T00:00:00Z",
+    "Country": "USA"
+  },
+  {
+    "_id": 111,
+    "Name": "InnerSloth",
+    "Foundingdate": "2015-01-01T00:00:00Z",
+    "Country": "USA"
+  },
+  {
+    "_id": 112,
+    "Name": "Bethesda Game Studios",
+    "Foundingdate": "2001-01-01T00:00:00Z",
+    "Country": "USA"
+  },
+  {
+    "_id": 113,
+    "Name": "Epic Games",
+    "Foundingdate": "1991-01-01T00:00:00Z",
+    "Country": "USA"
+  },
+  {
+    "_id": 114,
+    "Name": "Blizzard Entertainment",
+    "Foundingdate": "1991-02-08T00:00:00Z",
+    "Country": "USA"
+  },
+  {
+    "_id": 115,
+    "Name": "Ubisoft",
+    "Foundingdate": "1986-03-28T00:00:00Z",
+    "Country": "France"
+  },
+  {
+    "_id": 116,
+    "Name": "Electronic Arts (EA)",
+    "Foundingdate": "1982-05-27T00:00:00Z",
+    "Country": "USA"
+  },
+  {
+    "_id": 117,
+    "Name": "Square Enix",
+    "Foundingdate": "2003-04-01T00:00:00Z",
+    "Country": "Japan"
+  },
+  {
+    "_id": 118,
+    "Name": "Capcom",
+    "Foundingdate": "1983-06-11T00:00:00Z",
+    "Country": "Japan"
+  },
+  {
+    "_id": 119,
+    "Name": "Bandai Namco Entertainment",
+    "Foundingdate": "2006-03-31T00:00:00Z",
+    "Country": "Japan"
+  },
+  {
+    "_id": 120,
+    "Name": "Sega",
+    "Foundingdate": "1960-06-03T00:00:00Z",
+    "Country": "Japan"
+  }
+]

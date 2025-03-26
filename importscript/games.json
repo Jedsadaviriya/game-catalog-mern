@@ -1,0 +1,219 @@
+[
+  {
+    "_id": 1,
+    "Title": "The Witcher 3: Wild Hunt",
+    "Releasedate": "2015-05-19T00:00:00Z",
+    "Price": 39.99,
+    "Rating": 9.3,
+    "Description": "An open-world RPG set in a fantasy universe.",
+    "Genres": ["RPG", "Action"],
+    "Platforms": ["PC", "PS4", "Xbox One"],
+    "ProducerId": 101
+  },
+  {
+    "_id": 2,
+    "Title": "Cyberpunk 2077",
+    "Releasedate": "2020-12-10T00:00:00Z",
+    "Price": 49.99,
+    "Rating": 7.2,
+    "Description": "An open-world action-adventure story.",
+    "Genres": ["RPG", "Action"],
+    "Platforms": ["PC", "PS4", "Xbox One", "PS5", "Xbox Series X"],
+    "ProducerId": 101
+  },
+  {
+    "_id": 3,
+    "Title": "Red Dead Redemption 2",
+    "Releasedate": "2018-10-26T00:00:00Z",
+    "Price": 59.99,
+    "Rating": 9.7,
+    "Description": "A story-driven open-world game set in the Wild West.",
+    "Genres": ["Action", "Adventure"],
+    "Platforms": ["PC", "PS4", "Xbox One"],
+    "ProducerId": 102
+  },
+  {
+    "_id": 4,
+    "Title": "The Legend of Zelda: Breath of the Wild",
+    "Releasedate": "2017-03-03T00:00:00Z",
+    "Price": 59.99,
+    "Rating": 9.5,
+    "Description": "An open-world action-adventure game.",
+    "Genres": ["Action", "Adventure"],
+    "Platforms": ["Nintendo Switch", "Wii U"],
+    "ProducerId": 103
+  },
+  {
+    "_id": 5,
+    "Title": "Dark Souls III",
+    "Releasedate": "2016-04-12T00:00:00Z",
+    "Price": 49.99,
+    "Rating": 9.0,
+    "Description": "A challenging action RPG.",
+    "Genres": ["RPG", "Action"],
+    "Platforms": ["PC", "PS4", "Xbox One"],
+    "ProducerId": 104
+  },
+  {
+    "_id": 6,
+    "Title": "Hollow Knight",
+    "Releasedate": "2017-02-24T00:00:00Z",
+    "Description": "A 2D action-adventure game.",
+    "Genres": ["Metroidvania", "Action"],
+    "Platforms": ["PC", "Nintendo Switch", "PS4", "Xbox One"],
+    "ProducerId": 105
+  },
+  {
+    "_id": 7,
+    "Title": "Elden Ring",
+    "Releasedate": "2022-02-25T00:00:00Z",
+    "Price": 59.99,
+    "Rating": 9.5,
+    "Description": "An open-world action RPG.",
+    "Genres": ["RPG", "Action"],
+    "Platforms": ["PC", "PS4", "PS5", "Xbox One", "Xbox Series X"],
+    "ProducerId": 104
+  },
+  {
+    "_id": 8,
+    "Title": "Super Mario Odyssey",
+    "Releasedate": "2017-10-27T00:00:00Z",
+    "Price": 59.99,
+    "Rating": 9.7,
+    "Description": "A 3D platformer game.",
+    "Genres": ["Platformer", "Adventure"],
+    "Platforms": ["Nintendo Switch"],
+    "ProducerId": 103
+  },
+  {
+    "_id": 9,
+    "Title": "God of War",
+    "Releasedate": "2018-04-20T00:00:00Z",
+    "Price": 49.99,
+    "Rating": 9.8,
+    "Description": "An action-adventure game based on Norse mythology.",
+    "Genres": ["Action", "Adventure"],
+    "Platforms": ["PS4", "PC"],
+    "ProducerId": 106
+  },
+  {
+    "_id": 10,
+    "Title": "Horizon Zero Dawn",
+    "Releasedate": "2017-02-28T00:00:00Z",
+    "Price": 39.99,
+    "Rating": 9.0,
+    "Description": "An open-world action RPG.",
+    "Genres": ["Action", "RPG"],
+    "Platforms": ["PS4", "PC"],
+    "ProducerId": 107
+  },
+  {
+    "_id": 11,
+    "Title": "Stardew Valley",
+    "Releasedate": "2016-02-26T00:00:00Z",
+    "Price": 14.99,
+    "Rating": 9.0,
+    "Description": "A farming simulation game.",
+    "Genres": ["Simulation", "RPG"],
+    "Platforms": ["PC", "Nintendo Switch", "PS4", "Xbox One"],
+    "ProducerId": 108
+  },
+  {
+    "_id": 12,
+    "Title": "Minecraft",
+    "Releasedate": "2011-11-18T00:00:00Z",
+    "Price": 26.95,
+    "Rating": 9.0,
+    "Description": "A sandbox survival game.",
+    "Genres": ["Sandbox", "Survival"],
+    "Platforms": ["PC", "Nintendo Switch", "PS4", "Xbox One"],
+    "ProducerId": 109
+  },
+  {
+    "_id": 13,
+    "Title": "The Last of Us Part II",
+    "Releasedate": "2020-06-19T00:00:00Z",
+    "Price": 59.99,
+    "Rating": 9.5,
+    "Description": "A story-driven action-adventure game.",
+    "Genres": ["Action", "Adventure"],
+    "Platforms": ["PS4"],
+    "ProducerId": 106
+  },
+  {
+    "_id": 14,
+    "Title": "Animal Crossing: New Horizons",
+    "Releasedate": "2020-03-20T00:00:00Z",
+    "Price": 59.99,
+    "Rating": 8.5,
+    "Description": "A life simulation game.",
+    "Genres": ["Simulation"],
+    "Platforms": ["Nintendo Switch"],
+    "ProducerId": 103
+  },
+  {
+    "_id": 15,
+    "Title": "Portal 2",
+    "Releasedate": "2011-04-19T00:00:00Z",
+    "Price": 9.99,
+    "Rating": 9.5,
+    "Description": "A puzzle-platformer game.",
+    "Genres": ["Puzzle", "Platformer"],
+    "Platforms": ["PC", "PS3", "Xbox 360"],
+    "ProducerId": 110
+  },
+  {
+    "_id": 16,
+    "Title": "Among Us",
+    "Releasedate": "2018-06-15T00:00:00Z",
+    "Price": 4.99,
+    "Rating": 8.0,
+    "Genres": ["Party", "Strategy"],
+    "Platforms": ["PC", "Nintendo Switch", "PS4", "Xbox One"],
+    "ProducerId": 111
+  },
+  {
+    "_id": 17,
+    "Title": "Fallout 4",
+    "Releasedate": "2015-11-10T00:00:00Z",
+    "Price": 29.99,
+    "Rating": 8.5,
+    "Description": "An open-world action RPG.",
+    "Genres": ["RPG", "Action"],
+    "Platforms": ["PC", "PS4", "Xbox One"],
+    "ProducerId": 112
+  },
+  {
+    "_id": 18,
+    "Title": "The Elder Scrolls V: Skyrim",
+    "Releasedate": "2011-11-11T00:00:00Z",
+    "Price": 39.99,
+    "Rating": 9.5,
+    "Description": "An open-world action RPG.",
+    "Genres": ["RPG", "Action"],
+    "Platforms": ["PC", "PS4", "Xbox One"],
+    "ProducerId": 112
+  },
+  {
+    "_id": 19,
+    "Title": "Fortnite",
+    "Releasedate": "2017-07-25T00:00:00Z",
+    "Price": 0.0,
+    "Rating": 8.0,
+    "Description": "A battle royale game.",
+    "Genres": ["Battle Royale", "Shooter"],
+    "Platforms": ["PC", "Nintendo Switch", "PS4", "Xbox One"],
+    "ProducerId": 113
+  },
+  {
+    "_id": 20,
+    "Title": "Overwatch",
+    "Releasedate": "2016-05-24T00:00:00Z",
+    "Price": 39.99,
+    "Rating": 9.0,
+    "Description": "A team-based multiplayer shooter.",
+    "Genres": ["Shooter", "Multiplayer"],
+    "Platforms": ["PC", "PS4", "Xbox One"],
+    "ProducerId": 114
+  }
+]
