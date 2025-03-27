@@ -1,20 +1,32 @@
-// frontend/src/components/GameDetails.js
 import React, { useState, useEffect } from "react";
 import axios from "axios";
 import { useParams, Link } from "react-router-dom";
+import { Typography, Box, Button } from "@mui/material";
 
 function GameDetails() {
   const { id } = useParams();
   const [game, setGame] = useState(null);
+  const [loading, setLoading] = useState(true);
+  const [error, setError] = useState(null);
 
   useEffect(() => {
+    setLoading(true);
     axios
       .get(`http://localhost:5000/api/games/${id}`)
-      .then((response) => setGame(response.data))
-      .catch((error) => console.error(error));
+      .then((response) => {
+        setGame(response.data);
+        setLoading(false);
+      })
+      .catch((error) => {
+        setError("Fehler beim Laden des Spiels: " + error.message);
+        setLoading(false);
+        console.error(error);
+      });
   }, [id]);
 
-  if (!game) return <div>Loading...</div>;
+  if (loading) return <Typography>Lade Spiel...</Typography>;
+  if (error) return <Typography color="error">{error}</Typography>;
+  if (!game) return <Typography>Spiel nicht gefunden.</Typography>;
 
   return (
     <div className="game-card">
