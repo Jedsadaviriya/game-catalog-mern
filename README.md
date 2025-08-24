@@ -1,5 +1,5 @@
-## Start tool
-# Backend
+# Start tool
+## Backend
 `node server.js`
-# Frontend
+## Frontend
 `npm start`
